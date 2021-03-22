@@ -29,7 +29,12 @@ html_jomalone = res_jomalone.content.decode('utf-8').strip('\n')
 soup_jomalone = BeautifulSoup(html_jomalone, "html.parser")
 text = soup_jomalone.select_one('#node-20242 > div > div > div > ul > li:nth-child(3) > div > div > div > div > div > div > div')
 name = text.select("ul>li>ul>li>a")
-jomarlone_name = [n.get_text() for n in name]
-print(jomarlone_name)
+jomalone_name = [n.get_text() for n in name]
+print(jomalone_name)
+print(len(jomalone_name))
+
+with open("jomalone_product.txt",'w', encoding="utf-8") as f:
+    for name in jomalone_name:
+        f.write(name+'\n')
 
 
