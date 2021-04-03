@@ -1,42 +1,83 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import selenium
+from selenium import webdriver
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select, WebDriverWait
+import time
+import random
 
-companies = {"Jo-Malone": ["154",
-"Grapefruit",
-"Nectarine Blossom & Honey",
-"Dark Amber Ginger Lily",
-"Lime Basil Mandarin",
-"Red Roses",
-"Mayrrh Tonka",
-"Mimosa Cardamom",
-"Basil Neroli",
-"Vetiver Golden Varilla",
-"Velvet Rose Oud",
-"Blackberry Bay",
-"Amber Lavender",
-"Earlgrey Cucumber",
-"Oud Bergamot",
-"Orange Blossom",
-"Wild Bluebell",
-"Wood Sage Sea Salt",
-"English Oak Hazelnut",
-"English Pear Fressia",
-"Tuberose Angelica",
-"Pomegranate Noir",
-"Poppy Barley",
-"Peony Blushsuede",
-"Honeysuckle Davana"
-]}
-#https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html
-#https://www.fragrantica.com/perfume/Jo-Malone-London/154-Cologne-17819.html
+companies = {
+    "Jo-Malone": [
+        "154",
+        "Grapefruit",
+        "Nectarine Blossom & Honey",
+        "Dark Amber Ginger Lily",
+        "Lime Basil Mandarin",
+        "Red Roses",
+        "Mayrrh Tonka",
+        "Mimosa Cardamom",
+        "Basil Neroli",
+        "Vetiver Golden Varilla",
+        "Velvet Rose Oud",
+        "Blackberry Bay",
+        "Amber Lavender",
+        "Earlgrey Cucumber",
+        "Oud Bergamot",
+        "Orange Blossom",
+        "Wild Bluebell",
+        "Wood Sage Sea Salt",
+        "English Oak Hazelnut",
+        "English Pear Fressia",
+        "Tuberose Angelica",
+        "Pomegranate Noir",
+        "Poppy Barley",
+        "Peony Blushsuede",
+        "Honeysuckle Davana",
+    ]
+}
+# https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html
+# https://www.fragrantica.com/perfume/Jo-Malone-London/154-Cologne-17819.html
+
+
+def get_notes(URL):
+    result = []
+    driver = webdriver.Chrome(
+        executable_path=r"C:\Users\rswfa\Documents\capstone2\Catchinichi-AI\chromedriver"
+    )
+
+    driver.get(url=URL)
+    print(driver.current_url)
+    driver.implicitly_wait(time_to_wait=5)
+    driver.execute_script("window.scrollTo(0, 1500)")
+
+    # notes = driver.find_elements_by_css_selector(
+    #     "#pyramid > div:nth-child(1) > div > div:nth-child(2) > div:nth-child(3) > div"
+    # )
+
+    notes = driver.find_elements_by_css_selector(
+        "#pyramid > div:nth-child(1) > div > div:nth-child(2)"
+    )
+
+    for note in notes:
+        # print(note.text)
+        result.append(note.text)
+
+    driver.close()
+    return result
+
+
 def main():
     file = open("jomalone.txt", "w")
 
     names = companies.keys()
     for name in names:
-        url = "https://www.fragrantica.com/designers/"+name+".html"
-        headers = {'User-Agent': 'Mozilla/5.0'}
+        url = "https://www.fragrantica.com/designers/" + name + ".html"
+        headers = {"User-Agent": "Mozilla/5.0"}
         # print(url)
         response = requests.get(url, headers=headers).text
         # print(response.encoding)
@@ -46,23 +87,28 @@ def main():
         text = soup.select(".flex-child-auto a")
         count = 0
         for t in text:
-            t_url = "https://www.fragrantica.com"+t["href"]
-            t_name = " ".join(t_url.replace('/','.').split('.')[-2].split("-")[:-1])
+            t_url = "https://www.fragrantica.com" + t["href"]
+            t_name = " ".join(t_url.replace("/", ".").split(".")[-2].split("-")[:-1])
             # print(t_name)
             if t_name in companies[name]:
                 print(t_name)
                 count += 1
                 t_response = requests.get(t_url, headers=headers)
-                t_html = t_response.content.decode('utf-8').strip('\n')
+                t_html = t_response.content.decode("utf-8").strip("\n")
                 # print(t_html)
                 t_soup = BeautifulSoup(t_html, "lxml")
                 # print(t_soup)
                 graphs = t_soup.select(".grid-x .accord-bar")
                 for g in graphs:
-                    graph = " ".join([g.text, g["style"].split("width: ")[-1].split("%")[0]]) + "\n"
+                    graph = (
+                        " ".join(
+                            [g.text, g["style"].split("width: ")[-1].split("%")[0]]
+                        )
+                        + "\n"
+                    )
                     print(graph)
                     file.write(graph)
-
+                time.sleep(random.randrange(5, 60))
                 # main-content > div.grid-x.grid-margin-x > div.small-12.medium-12.large-9.cell > div > div:nth-child(2) > div:nth-child(5) > div:nth-child(2) > div > div:nth-child(1) > div.show-for-medium > span
                 # moods = t_soup.select(".grid-x .show-for-medium")
                 # moods = t_soup.select("div.grid-x,grid-margin-x div.cell.small-6 .vote-button-legend")
@@ -75,15 +121,21 @@ def main():
                 #     file.write(moodvote)
 
                 ##pyramid > div:nth-child(1) > div > div:nth-child(2) > div:nth-child(3) > div > div:nth-child(1) > div:nth-child(2) > a > span
-                top_note = t_soup.find_all("h3")
-                print(top_note)
+                # top_note = t_soup.find_all("h3")
+                # print(top_note)
                 # for note in top_note:
                 #     print(note.text)
-
-                time.sleep(5)
+                notes = get_notes(t_url)
+                for note in notes:
+                    if "votes" in note:
+                        continue
+                    print(note)
+                    file.write(note)
+                file.close()
+                time.sleep(random.randrange(5, 60))
     file.close()
 
-            
+
 """
 <div class="grid-x grid-padding-y" id="pyramid"><div class="cell">
 <div style="display: flex; flex-direction: column; justify-content: center; text-align: center; background: white;">
