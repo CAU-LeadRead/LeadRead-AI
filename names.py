@@ -15,7 +15,8 @@ def others_name():
             names = f.readlines()[::4]
             # print(names)
             for name in names:
-                brand_name.write(brand_n + " " + name)
+                brand_name.write(name.strip() + " " + brand_n)
+                brand_name.write("\n")
 
         brand_name.close()
 
@@ -31,8 +32,9 @@ def joAndDip():
             lines = f.readlines()
             for line in lines:
                 if "-" in line:
-                    line = line[1:]
-                    brand_name.write(brand_n + " " + line)
+                    line = line[1:].strip()
+                    brand_name.write(line + " " + brand_n)
+                    brand_name.write("\n")
 
         brand_name.close()
 
@@ -55,4 +57,6 @@ def join_names():
 
 
 if __name__ == "__main__":
+    others_name()
+    joAndDip()
     join_names()
