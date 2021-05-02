@@ -1,0 +1,430 @@
+userId,perfumeId,rating,title
+0,145,5.0,lime basil & mandarin jomalone
+0,248,4.0,warm cotton clean
+0,152,4.0,blackberry & bay jomalone
+0,34,5.0,gypsy water byredo
+0,38,2.0,mojave ghost byredo
+0,51,3.0,slow dance byredo
+0,160,5.0,wood sage & sea salt jomalone
+1,221,3.0,eau triple lichen d'ecosse buly 1803
+1,152,4.0,blackberry & bay jomalone
+1,167,4.0,peony & blushsuede jomalone
+1,287,3.0,alizarin penhaligon's
+1,126,4.0,l'ombre dans l'eau eau de toilette diptyque
+1,253,5.0,eclat d'arpege pour homme lanvin
+1,337,5.0,modern princess lanvin
+1,346,2.0,rumeur 2 rose lanvin
+1,275,4.0,secret wish anna sui
+1,375,3.0,fantasia anna sui
+1,388,3.0,chance eau tendre chanel
+2,222,5.0,eclat d'arpege lanvin
+2,249,5.0,jeanne lanvin lanvin
+2,162,5.0,english pear & fressia jomalone
+2,288,5.0,illicit flower jimmy choo
+2,269,3.0,jimmy choo jimmy choo
+2,323,3.0,flight of fancy anna sui
+3,223,4.0,lucky wish anna sui
+3,37,5.0,blanche byredo
+3,268,5.0,pansy lush
+3,289,3.0,artisan john varvatos
+3,265,3.0,chanel no 5 eau de parfum chanel
+3,253,3.0,eclat d'arpege pour homme lanvin
+3,296,2.0,miss dior blooming bouquet christian dior
+3,188,5.0,melograno santa maria novella
+3,361,4.0,b scent lush
+3,162,4.0,english pear & fressia jomalone
+3,389,3.0,은은한 비누 paffem
+3,304,4.0,j'adore christian dior
+4,224,4.0,ck all calvin klein
+4,250,4.0,chanel no 5 l'eau chanel
+4,109,5.0,vetyverio eau de toilette diptyque
+4,290,5.0,grey vetiver tom ford
+4,78,5.0,creed original vétiver creed
+4,248,5.0,warm cotton clean
+4,242,3.0,blue glow by jlo jennifer lopez
+4,289,3.0,artisan john varvatos
+4,291,5.0,sweety gourmand argenia
+4,376,2.0,gabrielle chanel
+4,236,4.0,libre yves saint laurent
+4,160,4.0,wood sage & sea salt jomalone
+4,407,5.0,bvlgari pour homme bvlgari
+5,152,4.0,blackberry & bay jomalone
+5,160,5.0,wood sage & sea salt jomalone
+5,269,3.0,jimmy choo jimmy choo
+5,291,4.0,sweety gourmand argenia
+5,306,3.0,잔느 사마리의 초상 향기의미술관
+5,324,3.0,레이디 고디바 향기의 미술관
+5,265,3.0,chanel no 5 eau de parfum chanel
+5,34,4.0,gypsy water byredo
+5,50,4.0,rose noir byredo
+5,377,3.0,what would love do lush
+5,294,2.0,dirty lush
+5,399,4.0,rose jam lush
+5,256,3.0,american cream lush
+5,268,4.0,pansy lush
+5,414,4.0,dalilight salvador dali
+5,418,3.0,j'adore in joy christian dior
+5,422,5.0,jasmin perle de thé fragonard
+6,225,3.0,tacit aesop
+6,223,4.0,lucky wish anna sui
+6,253,4.0,eclat d'arpege pour homme lanvin
+6,292,1.0,mademoiselle rochas rochas
+6,152,5.0,blackberry & bay jomalone
+6,248,4.0,warm cotton clean
+6,160,4.0,wood sage & sea salt jomalone
+6,128,2.0,do son eau de toilette diptyque
+6,112,3.0,tam dao eau de toilette diptyque
+6,249,3.0,jeanne lanvin lanvin
+6,311,4.0,flower by kenzo kenzo
+6,242,4.0,blue glow by jlo jennifer lopez
+7,37,4.0,blanche byredo
+7,251,4.0,musk pure tom ford
+7,270,4.0,baccarat rouge 540 maison francis kurkdjian
+7,249,3.0,jeanne lanvin lanvin
+7,307,3.0,white tea elizabeth arden
+7,325,5.0,nuit et confidences annick goutal
+7,338,3.0,amber musk aerin lauder
+7,347,5.0,prada candy kiss prada
+7,362,4.0,prada candy l'eau prada
+7,378,4.0,pomelo paradis atelier cologne
+8,226,5.0,incanto charms salvatore ferragamo
+8,252,3.0,coco mademoiselle l'eau privée chanel
+8,271,4.0,kenzo homme eau de parfum kenzo
+8,246,4.0,eclat d’arpège lanvin
+8,296,2.0,miss dior blooming bouquet christian dior
+8,311,2.0,flower by kenzo kenzo
+8,249,3.0,jeanne lanvin lanvin
+8,242,4.0,blue glow by jlo jennifer lopez
+8,363,2.0,dolce peony dolce&gabbana
+8,379,3.0,l’eau de toilette carven
+8,160,4.0,wood sage & sea salt jomalone
+8,152,5.0,blackberry & bay jomalone
+8,162,4.0,english pear & fressia jomalone
+8,365,5.0,nectarine blossom & honey
+8,414,5.0,dalilight salvador dali
+8,329,3.0,gucci bloom gucci
+8,337,3.0,modern princess lanvin
+8,248,2.0,warm cotton clean
+8,425,4.0,bel azur tory burch
+8,428,4.0,omnia amethyste bvlgari
+9,227,5.0,fig & lotus flower jo malone london
+9,253,5.0,eclat d'arpege pour homme lanvin
+9,272,3.0,ferrari light essence ferrari
+9,167,5.0,peony & blushsuede jomalone
+9,308,2.0,fantasia mermaid anna sui
+9,234,5.0,chloe eau de parfum chloé
+9,160,5.0,wood sage & sea salt jomalone
+10,228,5.0,ck be calvin klein
+10,254,3.0,ck one calvin klein
+10,242,5.0,blue glow by jlo jennifer lopez
+10,293,3.0,4711 acqua colonia blood orange & basil 4711
+10,309,4.0,ck one shock for her calvin klein
+10,262,4.0,amazing grace ballet rose philosophy
+10,239,2.0,amazing grace philosophy
+10,348,1.0,romantica exotica anna sui
+10,364,2.0,romantica anna sui
+10,226,5.0,incanto charms salvatore ferragamo
+10,264,4.0,burberry brit sheer burberry
+10,311,4.0,flower by kenzo kenzo
+10,408,3.0,코튼허그 포맨트
+10,412,4.0,코튼키스 포맨트
+10,253,5.0,eclat d'arpege pour homme lanvin
+10,419,4.0,jeanne lanvin
+11,229,4.0,daisy love marc jacobs
+11,255,5.0,mon paris yves saint laurent
+11,273,3.0,blossom jimmy choo
+11,242,4.0,blue glow by jlo jennifer lopez
+11,234,3.0,chloe eau de parfum chloé
+12,230,4.0,white musk the body shop
+12,256,5.0,american cream lush
+12,274,5.0,frangipani lush
+12,294,3.0,dirty lush
+12,310,5.0,junk lush
+12,162,5.0,english pear & fressia jomalone
+12,339,5.0,lime basil & mandarin
+12,349,4.0,wood sage & sea salt
+12,257,1.0,marry me lanvin
+12,253,2.0,eclat d'arpege pour homme lanvin
+13,231,2.0,green tea elizabeth arden
+13,257,4.0,marry me lanvin
+13,275,5.0,secret wish anna sui
+13,295,3.0,la vie de boheme anna sui
+13,265,2.0,chanel no 5 eau de parfum chanel
+13,155,3.0,earlgrey & cucumber jomalone
+13,273,4.0,blossom jimmy choo
+13,350,5.0,lilas mauve yves rocher
+13,365,3.0,nectarine blossom & honey
+13,152,4.0,blackberry & bay jomalone
+13,390,4.0,bergamote 22 le labo
+14,232,3.0,coco mademoiselle chanel
+14,255,2.0,mon paris yves saint laurent
+14,276,3.0,oyedo diptyque
+14,296,4.0,miss dior blooming bouquet christian dior
+14,311,3.0,flower by kenzo kenzo
+14,250,3.0,chanel no 5 l'eau chanel
+14,269,3.0,jimmy choo jimmy choo
+14,351,5.0,love affair eisenberg
+14,366,4.0,valentino donna valentino
+14,380,4.0,la nuit de bohème anna sui
+14,391,5.0,my burberry burberry
+14,234,2.0,chloe eau de parfum chloé
+14,226,5.0,incanto charms salvatore ferragamo
+15,233,4.0,good girl gone bad by kilian
+15,258,2.0,bamboo harmony by kilian
+15,257,4.0,marry me lanvin
+15,174,5.0,replica flower market maison margiela
+15,312,4.0,dot comme des garcons
+15,162,3.0,english pear & fressia jomalone
+15,126,3.0,l'ombre dans l'eau eau de toilette diptyque
+15,352,4.0,tamdao diptyque
+15,113,3.0,philosykos eau de toilette diptyque
+15,125,5.0,eau des sens eau de toilette diptyque
+15,122,4.0,eau rose eau de toilette diptyque
+15,400,4.0,ophelia james heeley
+15,37,4.0,blanche byredo
+15,41,2.0,la tulipe byredo
+16,125,5.0,eau des sens eau de toilette diptyque
+16,259,4.0,oud wood tom ford
+16,277,4.0,tuscan leather tom ford
+16,297,5.0,l'ombre dans l'eau de toilette diptyque
+16,128,4.0,do son eau de toilette diptyque
+16,326,3.0,34 boulevard saint germain diptyque
+16,132,4.0,tam dao eau de parfum diptyque
+16,136,3.0,vetyverio eau de parfum diptyque
+16,367,5.0,next to me ramon monegal
+16,381,4.0,agar musk ramon monegal
+16,392,4.0,flamenco ramon monegal
+16,371,3.0,cherry musk ramon monegal
+16,409,3.0,ma bergamote fragonard
+16,304,4.0,j'adore christian dior
+16,415,1.0,jimmy choo man jimmy choo
+16,420,2.0,mat; homme masaki matsushima
+16,130,5.0,eau de minthé eau de parfum diptyque
+16,85,5.0,creed royal water creed
+16,73,5.0,creed millésime impérial creed
+16,369,3.0,musc ravageur frederic malle
+17,234,4.0,chloe eau de parfum chloé
+17,250,5.0,chanel no 5 l'eau chanel
+17,232,4.0,coco mademoiselle chanel
+17,225,4.0,tacit aesop
+17,41,4.0,la tulipe byredo
+17,167,3.0,peony & blushsuede jomalone
+17,330,5.0,eau de rhubarbe ecarlate hermès
+17,353,4.0,pomelo jo loves
+17,368,3.0,the noir 29 le labo
+17,382,5.0,rose jam rush
+18,235,5.0,inlé memo paris
+18,278,5.0,orphéon diptyque
+18,298,4.0,angels' share by kilian
+18,313,3.0,jasmin 17 le labo
+18,270,5.0,baccarat rouge 540 maison francis kurkdjian
+18,225,3.0,tacit aesop
+18,354,4.0,l'eau d'hiver frederic malle
+18,369,2.0,musc ravageur frederic malle
+18,370,3.0,portrait of a lady frederic malle
+18,393,5.0,un jardin apres la mousson hermès
+19,236,2.0,libre yves saint laurent
+19,260,5.0,oh lola! marc jacobs
+19,279,5.0,peng lai parfums berdoues
+19,235,5.0,inlé memo paris
+19,314,5.0,bombshell dani mackenzie
+19,327,4.0,venice beach parfums berdoues
+19,340,3.0,somei yoshino parfums berdoues
+19,184,4.0,angeli di firenze santa maria novella
+19,304,4.0,j'adore christian dior
+19,383,4.0,luna penhaligon's
+19,328,5.0,ellenisia penhaligon's
+19,401,5.0,elisabethan rose 2018 penhaligon's
+19,197,4.0,cinquanta santa maria novella
+19,74,2.0,creed aventus for her creed
+19,185,3.0,fresia santa maria novella
+19,188,2.0,melograno santa maria novella
+19,190,3.0,rosa santa maria novella
+19,417,5.0,black orchid tom ford
+19,426,5.0,velvet orchid tom ford
+19,429,4.0,rose prick tom ford
+20,237,4.0,l’ile au thé annick goutal
+20,158,5.0,wild bluebell jomalone
+20,162,5.0,english pear & fressia jomalone
+20,122,4.0,eau rose eau de toilette diptyque
+20,315,3.0,paul smith rose paul smith
+20,328,3.0,ellenisia penhaligon's
+20,296,3.0,miss dior blooming bouquet christian dior
+20,355,3.0,petite cherie annick goutal
+20,90,4.0,creed acqua fiorentina creed
+20,264,5.0,burberry brit sheer burberry
+20,394,3.0,daisy dream marc jacobs
+21,238,5.0,pleasures estée lauder
+21,261,5.0,espoir - hope ajne
+21,280,5.0,gransenbon givenchy
+21,231,5.0,green tea elizabeth arden
+21,316,4.0,heiress paris hilton
+21,234,5.0,chloe eau de parfum chloé
+21,184,5.0,angeli di firenze santa maria novella
+21,356,5.0,chance eau tendre eau de parfum chanel
+21,242,5.0,blue glow by jlo jennifer lopez
+21,185,5.0,fresia santa maria novella
+21,373,2.0,lolita lempicka lolita lempicka
+21,402,3.0,izia la nuit sisley
+22,239,5.0,amazing grace philosophy
+22,262,3.0,amazing grace ballet rose philosophy
+22,167,4.0,peony & blushsuede jomalone
+22,299,3.0,baby tous
+22,317,3.0,hesperides atelier cologne
+22,329,5.0,gucci bloom gucci
+22,255,4.0,mon paris yves saint laurent
+22,176,4.0,replica lazy sunday morning maison margiela
+22,184,5.0,angeli di firenze santa maria novella
+22,346,3.0,rumeur 2 rose lanvin
+23,152,2.0,blackberry & bay jomalone
+23,263,5.0,un jardin sur le nil hermès
+23,281,5.0,fleur de peau diptyque
+23,300,4.0,a la rose maison francis kurkdjian
+23,146,4.0,red roses jomalone
+23,330,2.0,eau de rhubarbe ecarlate hermès
+23,341,4.0,twilly d’hermès hermès
+23,357,1.0,do son diptyque
+23,370,1.0,portrait of a lady frederic malle
+23,384,3.0,misia eau de parfum chanel
+23,395,3.0,eau des sens diptyque
+23,403,3.0,eau de magnolia frederic malle
+23,247,2.0,le jardin de monsieur li hermès
+24,240,4.0,lost cherry tom ford
+24,57,3.0,inflorescence byredo
+24,282,2.0,waterlily cologne jomalone
+24,301,3.0,philosykos diptyque
+24,318,3.0,ikat jasmine aerin lauder
+24,331,5.0,tamarindo memo paris
+24,342,4.0,eau triple venus de milo buly 1803
+24,234,4.0,chloe eau de parfum chloé
+24,371,3.0,cherry musk ramon monegal
+24,385,5.0,white flowers creed
+25,241,5.0,eau des merveilles hermès
+25,158,5.0,wild bluebell jomalone
+25,162,5.0,english pear & fressia jomalone
+25,302,5.0,l'imperatrice limited edition dolce&gabbana
+25,319,5.0,vanille solinotes
+25,332,5.0,the blanc solinotes
+25,343,4.0,cotton blossom solinotes
+25,358,5.0,marc jacobs splash rain marc jacobs
+25,363,3.0,dolce peony dolce&gabbana
+25,363,4.0,dolce peony dolce&gabbana
+25,303,5.0,cool cotton clean
+25,404,2.0,skin & vanilla eau fraiche clean
+25,410,5.0,white shirts loe
+25,413,2.0,omnia paraiba bvlgari
+25,416,4.0,white musk l'eau the body shop
+25,396,2.0,cloud ariana grande
+25,257,3.0,marry me lanvin
+25,424,2.0,rose solinotes
+25,272,3.0,ferrari light essence ferrari
+25,152,5.0,blackberry & bay jomalone
+26,131,5.0,eau capitale eau de parfum diptyque
+26,133,4.0,do son eau de parfum diptyque
+26,126,5.0,l'ombre dans l'eau eau de toilette diptyque
+26,125,4.0,eau des sens eau de toilette diptyque
+26,120,5.0,eau duelle eau de toilette diptyque
+26,123,5.0,eau moheli eau de toilette diptyque
+26,344,2.0,orpheon diptyque
+26,137,5.0,volutes eau de parfum diptyque
+26,116,4.0,ofrésia eau de toilette diptyque
+26,132,2.0,tam dao eau de parfum diptyque
+26,276,2.0,oyedo diptyque
+26,405,4.0,l'eau de neroli diptyque
+26,259,3.0,oud wood tom ford
+26,240,5.0,lost cherry tom ford
+26,417,5.0,black orchid tom ford
+26,421,4.0,velve orchid tom ford
+26,423,5.0,white suede tom ford
+26,290,4.0,grey vetiver tom ford
+26,427,4.0,bitter peach tom ford
+26,37,3.0,blanche byredo
+27,125,3.0,eau des sens eau de toilette diptyque
+27,133,2.0,do son eau de parfum diptyque
+27,132,4.0,tam dao eau de parfum diptyque
+27,303,3.0,cool cotton clean
+27,160,4.0,wood sage & sea salt jomalone
+27,254,4.0,ck one calvin klein
+27,62,3.0,flowerhead byredo
+27,65,4.0,creed green neroli creed
+27,372,2.0,fucking fabulous tom ford
+27,34,4.0,gypsy water byredo
+27,37,3.0,blanche byredo
+28,242,5.0,blue glow by jlo jennifer lopez
+28,133,5.0,do son eau de parfum diptyque
+28,283,4.0,chloe eau de perfume
+28,142,4.0,grapefruit jomalone
+28,320,4.0,eclat d’arpège lanvin 
+28,226,3.0,incanto charms salvatore ferragamo
+28,38,5.0,mojave ghost byredo
+28,359,3.0,still jinnifer lopez
+28,373,4.0,lolita lempicka lolita lempicka
+28,386,4.0,red rose jomalone
+28,396,3.0,cloud ariana grande
+28,406,5.0,miss dior eau de toilette christian dior
+28,411,5.0,miracle lancome
+28,334,5.0,princess vera wang
+28,345,3.0,daisy marc jacobs
+29,243,5.0,crush rihanna
+29,234,4.0,chloe eau de parfum chloé
+29,284,4.0,rose goldea bvlgari
+30,244,4.0,l'eau par kenzo pour homme kenzo
+30,254,3.0,ck one calvin klein
+30,285,5.0,ck one gold calvin klein
+30,289,5.0,artisan john varvatos
+30,321,3.0,francois charles rance 1795
+30,333,1.0,ferrari black ferrari
+30,266,5.0,light blue dolce&gabbana
+31,245,5.0,omnia coral bvlgari
+31,264,4.0,burberry brit sheer burberry
+31,234,3.0,chloe eau de parfum chloé
+31,273,5.0,blossom jimmy choo
+31,267,3.0,bright crystal versace
+31,334,3.0,princess vera wang
+32,188,5.0,melograno santa maria novella
+32,265,5.0,chanel no 5 eau de parfum chanel
+32,286,4.0,coco noir chanel
+32,304,3.0,j'adore christian dior
+32,322,2.0,jasmin noir eau de toilette bvlgari
+32,146,3.0,red roses jomalone
+33,246,5.0,eclat d’arpège lanvin
+33,266,5.0,light blue dolce&gabbana
+33,160,5.0,wood sage & sea salt jomalone
+33,305,4.0,kenzo pour homme kenzo
+33,289,4.0,artisan john varvatos
+33,335,3.0,artisan blu john varvatos
+33,248,5.0,warm cotton clean
+33,266,4.0,light blue dolce&gabbana
+33,232,4.0,coco mademoiselle chanel
+33,37,4.0,blanche byredo
+33,397,4.0,chance eau de toilette chanel
+34,247,5.0,le jardin de monsieur li hermès
+34,267,3.0,bright crystal versace
+34,226,5.0,incanto charms salvatore ferragamo
+34,152,3.0,blackberry & bay jomalone
+34,162,5.0,english pear & fressia jomalone
+34,336,4.0,do son eau de toilette
+34,345,4.0,daisy marc jacobs
+34,360,4.0,dior addict 2 eau fraiche christian dior
+34,314,5.0,bombshell dani mackenzie
+34,387,4.0,viva la juicy juicy couture
+35,126,5.0,l'ombre dans l'eau eau de toilette diptyque
+35,37,4.0,blanche byredo
+35,36,5.0,rose of no man's land byredo
+35,109,4.0,vetyverio eau de toilette diptyque
+35,128,1.0,do son eau de toilette diptyque
+35,112,3.0,tam dao eau de toilette diptyque
+35,108,5.0,geranium odorata eau de toilette diptyque
+35,268,5.0,pansy lush
+35,374,2.0,oud maison francis kurkdjian
+35,313,5.0,jasmin 17 le labo
+35,398,4.0,rose 31 le labo
+35,225,3.0,tacit aesop
+35,390,3.0,bergamote 22 le labo
+35,145,5.0,lime basil & mandarin jomalone
+35,160,3.0,wood sage & sea salt jomalone
+35,221,5.0,eau triple lichen d'ecosse buly 1803
+35,300,5.0,a la rose maison francis kurkdjian
+35,185,3.0,fresia santa maria novella
+35,383,4.0,luna penhaligon's
+35,430,3.0,rose pompon eau de toilette annick goutal
