@@ -1,4 +1,6 @@
 jiho-cred.json
 *.txt
+*.csv
 *.jpg
 *.png
+!reviews.csv

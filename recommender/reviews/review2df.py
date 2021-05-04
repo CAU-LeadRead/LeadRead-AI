@@ -13,7 +13,7 @@ names = names.readlines()
 names = [name.strip().lower() for name in names]
 
 # names from survey
-review = pd.read_csv("reviews/reviews.csv")
+review = pd.read_csv("./reviews.csv")
 name_col = review.columns[2::2]
 for col in name_col:
     for name in review[col]:
@@ -27,7 +27,7 @@ cols = df.columns[2:]
 
 data = []
 usr = 0
-for i in range(37):
+for i in range(len(df[cols[0]].count)):
     review = df.iloc[i]
     for j in range(0, len(cols), 2):
         perfume = review[cols[j]]
