@@ -4,3 +4,4 @@ jiho-cred.json
 *.jpg
 *.png
 !reviews.csv
+!user_review_jiho.csv
