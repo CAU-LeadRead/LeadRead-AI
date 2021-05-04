@@ -2,6 +2,16 @@ import pymysql
 import numpy as numpy
 import pandas as pd
 
+db = pymysql.connect(
+    user="admin",
+    host="db-catchinichi.coagfxdx9ff4.ap-northeast-2.rds.amazonaws.com",
+    port=3306,
+    password="Password!23",
+    database="catchiNichi",
+    charset="utf8",
+)
+cursor = db.cursor(pymysql.cursors.DictCursor)
+
 
 def get_cursor():
     db = pymysql.connect(
@@ -51,7 +61,7 @@ def get_reviews(cursor):
 
 
 def addUser(cursor, userNick, email):
-    sql = "INSERT INTO users (userNick, email) VALUES (%s, %s)"
+    sql = "INSERT INTO users (nick, email) VALUES (%s, %s)"
     val = (userNick, email)
     cursor.execute(sql, val)
     db.commit()
@@ -64,9 +74,12 @@ def truncate(cursor):
 
 
 if __name__ == "__main__":
+    for i in range(40):
+        nick = "a" + str(i)
+        email = nick + "@gmail.com"
+        addUser(cursor, nick, email)
+
     reviews = pd.read_csv("recommender/user_review_jiho.csv")
-    # userId,name,brand,rating
-    # truncate()
     values = []
     for index, row in reviews.iterrows():
         userNick = str(row["userId"])
@@ -75,4 +88,4 @@ if __name__ == "__main__":
         stars = str(row["rating"])
         v = [userNick, en_name, brand, stars]
         print(v)
-        insert(userNick=v[0], en_name=v[1], brand=v[2], stars=v[3])
+        insert(cursor, userNick="a" + v[0], en_name=v[1], brand=v[2], stars=v[3])

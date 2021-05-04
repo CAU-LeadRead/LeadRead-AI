@@ -46,10 +46,12 @@ def predict():
     df_user_perfume_rating = user_perfume_data.pivot_table(
         "rating", index="userId", columns="title"
     ).fillna(0)
-
+    user_list = df_user_perfume_rating.index.values
+    user_row_dict = dict(zip(list(user_list), range(len(user_list))))
     matrix = df_user_perfume_rating.values
     user_ratings_mean = np.mean(matrix, axis=1)
     matrix_user_mean = matrix - user_ratings_mean.reshape(-1, 1)
+
     U, sigma, Vt = svds(matrix_user_mean, k=12)
     sigma = np.diag(sigma)
     svd_user_predicted_ratings = np.dot(
@@ -58,11 +60,12 @@ def predict():
     df_svd_preds = pd.DataFrame(
         svd_user_predicted_ratings, columns=df_user_perfume_rating.columns
     )
-    return user_perfume_data, df_svd_preds
+    return user_perfume_data, df_svd_preds, user_row_dict
 
 
-def recommend_perfumes(df_svd_preds, user_perfume_data, user_id, num_recommendations=5):
-    user_row_number = user_id
+def recommend_perfumes(user_id, num_recommendations=5):
+    user_perfume_data, df_svd_preds, user_row_dict = predict()
+    user_row_number = user_row_dict[user_id]
     sorted_user_predictions = df_svd_preds.iloc[user_row_number].sort_values(
         ascending=False
     )
@@ -82,16 +85,8 @@ def recommend_perfumes(df_svd_preds, user_perfume_data, user_id, num_recommendat
     recommendations.drop(["userId", "rating", "index"], axis=1, inplace=True)
     recommendations.drop_duplicates(inplace=True)
     recommendations = recommendations.iloc[:num_recommendations, :]
-    return user_history, recommendations
-
-
-def get_prediction(user_id, num_recommendations=5):
-    user_perfume_data, df_svd_preds = predict()
-    user_input, predictions = recommend_perfumes(
-        df_svd_preds, user_perfume_data, user_id, num_recommendations
-    )
-    return predictions
+    return recommendations, user_history
 
 
 if __name__ == "__main__":
-    print(get_prediction(10))
+    print(recommend_perfumes("10"))
