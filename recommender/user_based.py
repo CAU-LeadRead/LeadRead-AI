@@ -89,4 +89,4 @@ def recommend_perfumes(user_id, num_recommendations=5):
 
 
 if __name__ == "__main__":
-    print(recommend_perfumes("10"))
+    print(recommend_perfumes("8"))
