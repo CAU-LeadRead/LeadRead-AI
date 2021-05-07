@@ -1,6 +1,8 @@
 import pymysql
 import numpy as numpy
 import pandas as pd
+import requests
+import time
 
 db = pymysql.connect(
     user="admin",
@@ -36,10 +38,12 @@ def insert(
     longevity=None,
     mood=None,
     userNick=None,
+    category=0,
     stars=None,
 ):
-    sql = "INSERT INTO reviews (brand, comment, en_name, kr_brand, kr_name, longevity, mood, userNick, stars) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-    val = (brand, comment, en_name, kr_brand, kr_name, longevity, mood, userNick, stars)
+    sql = "INSERT INTO reviews (brand, comment, en_name, kr_brand, kr_name, longevity, mood, userNick, stars, category) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    val = (brand, comment, en_name, kr_brand,
+           kr_name, longevity, mood, userNick, stars)
     cursor.execute(sql, val)
     db.commit()
     print("inserted row ID: ", cursor.lastrowid)
@@ -73,19 +77,46 @@ def truncate(cursor):
     db.commit()
 
 
+def upload_data(brand=None,
+                comment=None,
+                en_name=None,
+                kr_brand=None,
+                kr_name=None,
+                longevity=None,
+                mood=None,
+                userNick=None,
+                category=0,
+                stars=None):
+    nichi_list = ["diptyque", "jomalone", "santa maria novella", "byredo",
+                  "le labo", "acqua di parma", "tom ford", "creed", "masion margiella"]
+    if brand in nichi_list:
+        category = 1
+    url = "https://ziho-dev.com/review/addReview"
+    obj = {"brand": brand, "comment": comment, "en_name": en_name, "longevity": longevity,
+           "mood": mood, "nick": userNick, "category": category, "stars": stars}
+    r = requests.post(url, obj)
+    print(r)
+
+
 if __name__ == "__main__":
-    for i in range(40):
-        nick = "a" + str(i)
-        email = nick + "@gmail.com"
-        addUser(cursor, nick, email)
+
+    truncate(cursor)
+    # for i in range(40):
+    #     nick = "a" + str(i)
+    #     email = nick + "@gmail.com"
+    #     addUser(cursor, nick, email)
 
     reviews = pd.read_csv("recommender/user_review_jiho.csv")
-    values = []
     for index, row in reviews.iterrows():
         userNick = str(row["userId"])
         en_name = str(row["name"])
         brand = str(row["brand"])
-        stars = str(row["rating"])
-        v = [userNick, en_name, brand, stars]
-        print(v)
-        insert(cursor, userNick="a" + v[0], en_name=v[1], brand=v[2], stars=v[3])
+        stars = int(row["rating"])
+        upload_data(en_name=en_name, userNick=userNick,
+                    brand=str(brand), stars=stars)
+        # time.sleep(0.5)
+        # v = [userNick, en_name, brand, stars]
+        # print(v)
+    #     insert(cursor, userNick="a" + v[0], en_name=v[1], brand=v[2], stars=v[3])
+    df = pd.DataFrame(get_reviews(cursor))
+    print(df.head(10))

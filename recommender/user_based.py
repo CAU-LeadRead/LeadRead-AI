@@ -1,3 +1,5 @@
+import mysql_reviews
+import pymysql
 from sklearn.decomposition import TruncatedSVD
 from scipy.sparse.linalg import svds
 import matplotlib.pyplot as plt
@@ -7,11 +9,9 @@ import numpy as np
 import warnings
 
 warnings.filterwarnings("ignore")
-import pymysql
-import mysql_reviews
 
 
-def predict():
+def get_perfume_data():
     cursor = mysql_reviews.get_cursor()
 
     reviews_dict = mysql_reviews.get_reviews(cursor)
@@ -22,8 +22,10 @@ def predict():
         user_perfume_data["en_name"] + "/" + user_perfume_data["brand"]
     )
 
-    user_perfume_data["rating"] = user_perfume_data["stars"].apply(pd.to_numeric)
+    user_perfume_data["rating"] = user_perfume_data["stars"].apply(
+        pd.to_numeric)
     user_perfume_data["userId"] = user_perfume_data["UserNick"]
+    nich = user_perfume_data[["userId", "title", "category"]]
 
     user_perfume_data.drop(
         [
@@ -38,11 +40,16 @@ def predict():
             "en_name",
             "stars",
             "UserNick",
+            "category"
         ],
         axis=1,
         inplace=True,
     )
+    return user_perfume_data, nich
 
+
+def MF_predict(k=20):
+    user_perfume_data, nich = get_perfume_data()
     df_user_perfume_rating = user_perfume_data.pivot_table(
         "rating", index="userId", columns="title"
     ).fillna(0)
@@ -52,7 +59,7 @@ def predict():
     user_ratings_mean = np.mean(matrix, axis=1)
     matrix_user_mean = matrix - user_ratings_mean.reshape(-1, 1)
 
-    U, sigma, Vt = svds(matrix_user_mean, k=12)
+    U, sigma, Vt = svds(matrix_user_mean, k=k)
     sigma = np.diag(sigma)
     svd_user_predicted_ratings = np.dot(
         np.dot(U, sigma), Vt
@@ -60,11 +67,12 @@ def predict():
     df_svd_preds = pd.DataFrame(
         svd_user_predicted_ratings, columns=df_user_perfume_rating.columns
     )
-    return user_perfume_data, df_svd_preds, user_row_dict
+    return df_svd_preds, user_row_dict
 
 
-def recommend_perfumes(user_id, num_recommendations=5):
-    user_perfume_data, df_svd_preds, user_row_dict = predict()
+def recommend_perfumes(user_id,  num_recommendations=5):
+    user_perfume_data, nich = get_perfume_data()
+    df_svd_preds, user_row_dict = MF_predict(20)
     user_row_number = user_row_dict[user_id]
     sorted_user_predictions = df_svd_preds.iloc[user_row_number].sort_values(
         ascending=False
@@ -72,8 +80,10 @@ def recommend_perfumes(user_id, num_recommendations=5):
     user_history = user_perfume_data[user_perfume_data.userId == user_id].sort_values(
         ["rating"], ascending=False
     )
+    user_perfume_data = user_perfume_data.loc[nich["category"].isin([1])]
     recommendations = user_perfume_data[
-        ~user_perfume_data["title"].isin(user_history["title"])
+        ~user_perfume_data["title"].isin(
+            user_history["title"])
     ]
     recommendations = recommendations.merge(
         pd.DataFrame(sorted_user_predictions).reset_index(), on="title"
@@ -85,8 +95,15 @@ def recommend_perfumes(user_id, num_recommendations=5):
     recommendations.drop(["userId", "rating", "index"], axis=1, inplace=True)
     recommendations.drop_duplicates(inplace=True)
     recommendations = recommendations.iloc[:num_recommendations, :]
-    return recommendations, user_history
+    return recommendations
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     print(recommend_perfumes("8"))
+=======
+    for i in range(39):
+        print(recommend_perfumes(str(i), 1))
+
+    # print(get_perfume_data())
+>>>>>>> 20acbcfd2f22adfac546a89cfebafe1dc4f336d6
