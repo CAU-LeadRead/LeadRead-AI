@@ -8,9 +8,9 @@
 6,italian orange,orange
 7,paraguaian petitgrain,petitgrain
 8,russian coriander oil,coriander
-9,jasmine sambac absolute,jasime
+9,jasmine sambac absolute,jasmine
 10,france narcissus absolute,narcissus
-11,virginian cedarwood,cedarwood
+11,virginian cedarwood,cedar
 12,indonesian patchouli,patchouli
 13,sicilian lemon,lemon
 14,leather accord,leather
@@ -42,13 +42,13 @@
 40,lentisc ansolute,mastic or lentisque
 41,calabrian bergamot dop,bergamot
 42,red ginger,ginger
-43,green almonds,almonds
+43,green almonds,almond
 44,ylang ylang,ylang-ylang
 45,madagascar vanilla,vanilla
 46,lebanese cedarwood,cedar
 47,haitian amyris oil,amyris
 48,russian coriander,coriander
-49,agarwood oil (oud),agarwoon (oud)
+49,agarwood oil (oud),agarwood (oud)
 50,patchouli oil,patchouli
 51,brazilian orange,orange
 52,raspberry accord,raspberry
@@ -60,7 +60,7 @@
 58,violet leaves,violet leaf
 59,liquorice,licorice
 60,yellow mandarin,mandarin orange
-61,camelia accord,camella
+61,camelia accord,camellia
 62,benzoin resinoid,benzoin
 63,green mandarin,mandarin orange
 64,ambrette,ambrette (musk mallow)
@@ -91,7 +91,7 @@
 89,orris,orris root
 90,pine needle,pine tree
 91,african marigold,marigold
-92,bucchu,buchu
+92,bucchu,buchu or agathosma
 93,moroccan cedarwood,cedar
 94,turkish rose petals,rose
 95,turkish rose absolute,rose
@@ -120,12 +120,12 @@
 118,honey accord,honey
 119,black tea,earl grey tea
 120,birch tree,birch
-121,ambrette seeds,ambretts (musk mallow)
+121,ambrette seeds,ambrette (musk mallow)
 122,rose damascena,rose
 123,cistus labdanum,rose
 124,opopanax,opoponax
 125,powdery musks,musk
-126,oud,arganwood (oud)
+126,oud,argan tree
 127,adoxal,aldehydes
 128,clover honey,honey
 129,patchouli leaf,patchouli
@@ -139,7 +139,7 @@
 137,sicilian bergamot,bergamot
 138,fresh musk,musk
 139,rose absolute,rose
-140,ambrette flower,ambretts (musk mallow)
+140,ambrette flower,ambrette (musk mallow)
 141,skin musks,musk
 142,tiare,tiare flower
 143,peach flower,peach blossom
@@ -172,7 +172,7 @@
 170,orange flower petals,orange blossom
 171,clove oil,clove leaf
 172,chestnut accord,chestnut
-173,gaïac wood oil,guaiac wood
+173,gaiac wood oil,guaiac wood
 174,vanilla accord,vanilla
 175,pepper essence,pepper
 176,orange flower petals firnat,orange blossom
@@ -223,7 +223,7 @@
 221,coriander eo,coriander
 222,iris absolute,iris
 223,rose superessence,rose
-224,red seaweed pure jungle essence,seweed
+224,red seaweed pure jungle essence,seaweed
 225,orcanox,musk
 226,blackcurrant accord,black currant
 227,lily of the valley accord,lily of the valley leaves
@@ -271,7 +271,7 @@
 269,green tea,matcha tea
 270,softwoods,wood
 271,sicilian citrus,citruses
-272,benzoin resin,resin
+272,benzoin resin,resins
 273,genista (broom),lydia broom
 274,sweet floral notes,floral notes
 275,woods,wood
@@ -290,8 +290,8 @@
 288,green aromatic notes,green notes
 289,clove,cloves
 290,paprika,green pepper
-291,black cardamom,cardamon
-292,kyara incense (olibanum),olibanum(frankincense)
+291,black cardamom,cardamom
+292,kyara incense (olibanum),olibanum (frankincense)
 293,damask rose,rose
 294,clove,cloves
 295,myrhh,myrrh
@@ -322,7 +322,7 @@
 320,sicilian orange blossom,orange blossom
 321,mexican vanilla orchid,orchid
 322,granny smith apple,apple
-323,blackcurrant leaves,back currant leaf
+323,blackcurrant leaves,black currant leaf
 324,pink berries,"arbutus (madrona, bearberry tree)"
 325,baie rose,rose
 326,indian sandalwood,sandalwood
@@ -334,7 +334,7 @@
 332,bulgarian and turkish roses,rose
 333,sweet peach,peach
 334,la réunion baie rose (pink peppercorn),rose
-335,peppercorn,peppercorn
+335,peppercorn,rose
 336,indian patchouli,patchouli
 337,lavandin absolute,lavender
 338,angelica roots,angelica
@@ -383,3 +383,24 @@
 381,fruity accord,fruity notes
 382,floral accord,floral notes
 383,absolute jasmine,jasmine
+384,woody,woody notes
+385,wood,woody notes
+386,mughetto (lily of the valley),lily-of-the-valley
+387,oriental soft mossy note (musk),musk
+388,woody soft mossy note (golden musk),musk
+389,woody oriental,woody notes
+390,oriental sandalwood,sandalwood
+391,floral oriental tuberose,tuberose
+392,soft oriental vanilla,vanilla
+393,woody oriental vetiver,vetiver
+394,citrus floral,floral notes
+395,aromatic soft oriental,oriental notes
+396,cardamon,cardamon
+398,water notes,water
+399,woodsy notes,woody notes
+400,sea notes,sea water
+401,black currant leaf,black currant
+402,la r챕union baie rose (pink peppercorn),rose
+403,peppercorn,rose
+404,rice,rice
+405,pink peppercorn,rose
