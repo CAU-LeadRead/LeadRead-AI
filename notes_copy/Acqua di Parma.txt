@@ -30,10 +30,6 @@ ARANCIA DI CAPRI
 top: Italian Sweet Orange, Italian Mandarin, Italian Lemon
 mid: Petit Grain, Cardamom
 bot: Caramel, Musk
-Italian Lemon, Italian Bergamot, Grapefruit
-top: 
-mid: 
-bot: 
 FICO DI AMALFI
 top: Italian Lemon, Italian Bergamot, Grapefruit
 mid: Fig Nectar, Pink Pepper, Jasmine Petals

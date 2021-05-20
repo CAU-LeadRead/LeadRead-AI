@@ -1,7 +1,7 @@
 import pymysql
 import pandas as pd
 
-fragrance = pd.read_csv("fragrancelist.csv")
-fragrance["brand"] = fragrance["brand"].apply(str.strip).apply(str.lower)
-fragrance["en_name"] = fragrance["en_name"].apply(str.strip).apply(str.lower)
-fragrance.to_csv("aaa.csv")
+fragrance = pd.read_csv("DB_related/fragrance.csv")
+fragrance["brand"] = fragrance["brand"].str.replace(" ", "")
+fragrance["en_name"] = fragrance["en_name"].str.replace(" ", "")
+fragrance.to_csv("DB_related/temp.csv")

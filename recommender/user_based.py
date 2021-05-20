@@ -7,6 +7,17 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 import warnings
+import argparse
+
+parser = argparse.ArgumentParser(description='Return recommendations from the DB. Return temporary recommendations if it is not yet calculated.')
+parser.add_argument('--id', metavar='1', type=str, nargs='+',
+                    help='an integer for the accumulator')
+parser.add_argument('--sum', dest='accumulate', action='store_const',
+                    const=sum, default=max,
+                    help='sum the integers (default: find the max)')
+
+args = parser.parse_args()
+
 
 warnings.filterwarnings("ignore")
 
@@ -22,8 +33,7 @@ def get_perfume_data():
         user_perfume_data["en_name"] + "/" + user_perfume_data["brand"]
     )
 
-    user_perfume_data["rating"] = user_perfume_data["stars"].apply(
-        pd.to_numeric)
+    user_perfume_data["rating"] = user_perfume_data["stars"].apply(pd.to_numeric)
     user_perfume_data["userId"] = user_perfume_data["UserNick"]
     nich = user_perfume_data[["userId", "title", "category"]]
 
@@ -40,7 +50,7 @@ def get_perfume_data():
             "en_name",
             "stars",
             "UserNick",
-            "category"
+            "category",
         ],
         axis=1,
         inplace=True,
@@ -70,7 +80,7 @@ def MF_predict(k=20):
     return df_svd_preds, user_row_dict
 
 
-def recommend_perfumes(user_id,  num_recommendations=5):
+def recommend_perfumes(user_id, num_recommendations=5):
     user_perfume_data, nich = get_perfume_data()
     df_svd_preds, user_row_dict = MF_predict(20)
     user_row_number = user_row_dict[user_id]
@@ -82,8 +92,7 @@ def recommend_perfumes(user_id,  num_recommendations=5):
     )
     user_perfume_data = user_perfume_data.loc[nich["category"].isin([1])]
     recommendations = user_perfume_data[
-        ~user_perfume_data["title"].isin(
-            user_history["title"])
+        ~user_perfume_data["title"].isin(user_history["title"])
     ]
     recommendations = recommendations.merge(
         pd.DataFrame(sorted_user_predictions).reset_index(), on="title"
@@ -97,13 +106,18 @@ def recommend_perfumes(user_id,  num_recommendations=5):
     recommendations = recommendations.iloc[:num_recommendations, :]
     return recommendations
 
+def main():
+    args = sys.argv[]
+
+
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    print(recommend_perfumes("8"))
-=======
-    for i in range(39):
-        print(recommend_perfumes(str(i), 1))
 
-    # print(get_perfume_data())
->>>>>>> 20acbcfd2f22adfac546a89cfebafe1dc4f336d6
+    parser = argparse.ArgumentParser(description='Return recommendations from the DB. Return temporary recommendations if it is not yet calculated.')
+    parser.add_argument('--id', metavar='1', type=str, nargs='+',
+                        help='an integer for the accumulator')
+    parser.add_argument('--sum', dest='accumulate', action='store_const',
+                        const=sum, default=max,
+                        help='sum the integers (default: find the max)')
+
+    args = parser.parse_args()

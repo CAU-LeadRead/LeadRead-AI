@@ -28,8 +28,8 @@ Middle: rose
 Base: aromatic woods
 Rosa Novella
 citrus, floral, woody
-
-
+citrus, floral, woody
+citrus, floral, woody
 Acqua di Cuba
 Top: citrus, cardamom
 Middle: tobacco leaves, honey, spices
@@ -46,10 +46,6 @@ Cala Rossa
 Top: wild lavender, mint, eucalyptus
 Middle: helichrysum, wild fennel
 Base: rosemary, myrtle
-Caprifoglio
-Caprifoglio (Honeysuckle)
-
-
 Cinquanta
 Top: gardenia, orange blossoms
 Middle: green tea, softwoods
@@ -62,14 +58,10 @@ Fieno
 Top: Sicilian citrus
 Middle: rose, myrtle, hawthorn
 Base: sandalwood, benzoin resin, vetiver
-Gardenia
-Gardenia 
-
-
 Gelsomino
 Jasmine
-
-
+Jasmine
+Jasmine
 Ginestra
 Top: Genista (broom)
 Middle: sweet floral notes
@@ -88,24 +80,24 @@ Middle: cedar wood, Rosa centifolia
 Base: oriental woods, musk
 Mughetto
 Mughetto (Lily of the Valley)
-
-
+Mughetto (Lily of the Valley)
+Mughetto (Lily of the Valley)
 Muschio
 oriental soft mossy note (Musk)
-
-
+oriental soft mossy note (Musk)
+oriental soft mossy note (Musk)
 Muschio Oro
 woody soft mossy note (Golden musk)
-
-
+woody soft mossy note (Golden musk)
+woody soft mossy note (Golden musk)
 Nostalgia
 Top: rubber, sweetgum resin, bergamot
 Middle: patchouli, Virginia cedar wood
 Base: tobacco leaves, vanilla
 Opoponax
 woody oriental
-
-
+woody oriental
+woody oriental
 Patchouli
 Top: floral notes
 Middle: rose wood
@@ -120,29 +112,29 @@ Middle: petitgrain, green aromatic notes, clove
 Base: Sumatra benzoin
 Sandalo
 oriental Sandalwood
-
-
+oriental Sandalwood
+oriental Sandalwood
 Tuberosa
 floral oriental Tuberose
-
-
+floral oriental Tuberose
+floral oriental Tuberose
 Vaniglia
 soft oriental Vanilla
-
-
+soft oriental Vanilla
+soft oriental Vanilla
 Vetiver
 woody oriental Vetiver
-
-
+woody oriental Vetiver
+woody oriental Vetiver
 Zagara
 citrus floral
-
-
+citrus floral
+citrus floral
 Lavanda Imperiale
 Top: bergamot, Ylang-ylang
 Middle: lavender
 Base: sage
 Lavanda Ambrata
 Aromatic soft oriental
-
-
+Aromatic soft oriental
+Aromatic soft oriental
