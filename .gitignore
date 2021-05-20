@@ -1,6 +1,10 @@
 jiho-cred.json
 *.txt
 *.csv
+!converged.csv
+!fragrance.csv
+!no.csv
+!notes_before.csv
 *.jpg
 *.png
 !reviews.csv

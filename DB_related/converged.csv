@@ -1,0 +1,1599 @@
+,brand,name,note,time
+0,acquadiparma,colonia,lemon,top
+1,acquadiparma,colonia,orange,top
+2,acquadiparma,colonia,bergamot,top
+3,acquadiparma,colonia,lavender,mid
+4,acquadiparma,colonia,rose,mid
+5,acquadiparma,colonia,lemon verbena,mid
+6,acquadiparma,colonia,rosemary,mid
+7,acquadiparma,colonia,vetiver,bot
+8,acquadiparma,colonia,sandalwood,bot
+9,acquadiparma,colonia,patchouli,bot
+10,acquadiparma,coloniafutura,bergamot,top
+11,acquadiparma,coloniafutura,grapefruit,top
+12,acquadiparma,coloniafutura,lemon,top
+13,acquadiparma,coloniafutura,pink pepper,top
+14,acquadiparma,coloniafutura,clary sage,mid
+15,acquadiparma,coloniafutura,lavender,mid
+16,acquadiparma,coloniafutura,vetiver,bot
+17,acquadiparma,coloniapura,bergamot,top
+18,acquadiparma,coloniapura,orange,top
+19,acquadiparma,coloniapura,petitgrain,top
+20,acquadiparma,coloniapura,coriander,mid
+21,acquadiparma,coloniapura,jasime,mid
+22,acquadiparma,coloniapura,narcissus,mid
+23,acquadiparma,coloniapura,cedarwood,bot
+24,acquadiparma,coloniapura,patchouli,bot
+25,acquadiparma,coloniapura,musk,bot
+26,acquadiparma,coloniaintensa,cardamom,top
+27,acquadiparma,coloniaintensa,bergamot,top
+28,acquadiparma,coloniaintensa,lemon,top
+29,acquadiparma,coloniaintensa,ginger,top
+30,acquadiparma,coloniaintensa,myrtle,mid
+31,acquadiparma,coloniaintensa,artemisia,mid
+32,acquadiparma,coloniaintensa,neroli,mid
+33,acquadiparma,coloniaintensa,leather,bot
+34,acquadiparma,coloniaintensa,cedar,bot
+35,acquadiparma,coloniaintensa,patchouli,bot
+36,acquadiparma,coloniaintensa,benzoin,bot
+37,acquadiparma,coloniaintensa,musk,bot
+38,acquadiparma,coloniaessenza,lemon,top
+39,acquadiparma,coloniaessenza,orange,top
+40,acquadiparma,coloniaessenza,bergamot,top
+41,acquadiparma,coloniaessenza,mandarin orange,top
+42,acquadiparma,coloniaessenza,grapefruit,top
+43,acquadiparma,coloniaessenza,neroli,top
+44,acquadiparma,coloniaessenza,petitgrain,top
+45,acquadiparma,coloniaessenza,rosemary,mid
+46,acquadiparma,coloniaessenza,lily of the valley leaves,mid
+47,acquadiparma,coloniaessenza,rose,mid
+48,acquadiparma,coloniaessenza,jasmine,mid
+49,acquadiparma,coloniaessenza,cloves,mid
+50,acquadiparma,coloniaessenza,vetiver,bot
+51,acquadiparma,coloniaessenza,patchouli,bot
+52,acquadiparma,coloniaessenza,musk,bot
+53,acquadiparma,coloniaessenza,amber,bot
+54,acquadiparma,coloniaclub,lemon,top
+55,acquadiparma,coloniaclub,petitgrain,top
+56,acquadiparma,coloniaclub,bergamot,top
+57,acquadiparma,coloniaclub,mandarin orange,top
+58,acquadiparma,coloniaclub,mint,top
+59,acquadiparma,coloniaclub,neroli,top
+60,acquadiparma,coloniaclub,lavender,mid
+61,acquadiparma,coloniaclub,geranium,mid
+62,acquadiparma,coloniaclub,galbanum,mid
+63,acquadiparma,coloniaclub,vetiver,bot
+64,acquadiparma,coloniaclub,musk,bot
+65,acquadiparma,coloniaclub,ambergris,bot
+66,acquadiparma,bergamottodicalabrialaspugnatura,bergamot,top
+67,acquadiparma,bergamottodicalabrialaspugnatura,bitter orange,top
+68,acquadiparma,bergamottodicalabrialaspugnatura,mandarin orange,top
+69,acquadiparma,bergamottodicalabrialaspugnatura,grapefruit,top
+70,acquadiparma,bergamottodicalabrialaspugnatura,galbanum,mid
+71,acquadiparma,bergamottodicalabrialaspugnatura,geranium,mid
+72,acquadiparma,bergamottodicalabrialaspugnatura,cedar,bot
+73,acquadiparma,bergamottodicalabrialaspugnatura,vetiver,bot
+74,acquadiparma,aranciadicapri,orange,top
+75,acquadiparma,aranciadicapri,mandarin orange,top
+76,acquadiparma,aranciadicapri,lemon,top
+77,acquadiparma,aranciadicapri,petitgrain,mid
+78,acquadiparma,aranciadicapri,cardamom,mid
+79,acquadiparma,aranciadicapri,caramel,bot
+80,acquadiparma,aranciadicapri,musk,bot
+81,acquadiparma,ficodiamalfi,lemon,top
+82,acquadiparma,ficodiamalfi,bergamot,top
+83,acquadiparma,ficodiamalfi,grapefruit,top
+84,acquadiparma,ficodiamalfi,fig,mid
+85,acquadiparma,ficodiamalfi,pink pepper,mid
+86,acquadiparma,ficodiamalfi,jasmine,mid
+87,acquadiparma,ficodiamalfi,fig tree,bot
+88,acquadiparma,ficodiamalfi,cedar,bot
+89,acquadiparma,ficodiamalfi,benzoin,bot
+90,acquadiparma,cipressoditoscana,orange,top
+91,acquadiparma,cipressoditoscana,elemi,top
+92,acquadiparma,cipressoditoscana,star anise,top
+93,acquadiparma,cipressoditoscana,lavender,mid
+94,acquadiparma,cipressoditoscana,clary sage,mid
+95,acquadiparma,cipressoditoscana,petitgrain,mid
+96,acquadiparma,cipressoditoscana,fir,bot
+97,acquadiparma,cipressoditoscana,cypress,bot
+98,acquadiparma,cipressoditoscana,pine tree,bot
+99,acquadiparma,chinottodiliguria,chinotto,top
+100,acquadiparma,chinottodiliguria,mandarin orange,top
+101,acquadiparma,chinottodiliguria,jasmine,mid
+102,acquadiparma,chinottodiliguria,geranium,mid
+103,acquadiparma,chinottodiliguria,rosemary,mid
+104,acquadiparma,chinottodiliguria,cardamom,mid
+105,acquadiparma,chinottodiliguria,patchouli,bot
+106,acquadiparma,chinottodiliguria,musk,bot
+107,acquadiparma,mirtodipanarea,myrtle,top
+108,acquadiparma,mirtodipanarea,basil,top
+109,acquadiparma,mirtodipanarea,lemon,top
+110,acquadiparma,mirtodipanarea,bergamot,top
+111,acquadiparma,mirtodipanarea,sea water,mid
+112,acquadiparma,mirtodipanarea,jasmine,mid
+113,acquadiparma,mirtodipanarea,rose,mid
+114,acquadiparma,mirtodipanarea,mastic or lentisque,bot
+115,acquadiparma,mirtodipanarea,juniper,bot
+116,acquadiparma,mirtodipanarea,cedarwood,bot
+117,acquadiparma,mirtodipanarea,amber,bot
+118,acquadiparma,bergamottodicalabria,bergamot,top
+119,acquadiparma,bergamottodicalabria,citron,top
+120,acquadiparma,bergamottodicalabria,cedar,mid
+121,acquadiparma,bergamottodicalabria,ginger,mid
+122,acquadiparma,bergamottodicalabria,vetiver,bot
+123,acquadiparma,bergamottodicalabria,benzoin,bot
+124,acquadiparma,bergamottodicalabria,musk,bot
+125,acquadiparma,mandorlodisicilia,star anise,top
+126,acquadiparma,mandorlodisicilia,bergamot,top
+127,acquadiparma,mandorlodisicilia,orange,top
+128,acquadiparma,mandorlodisicilia,almonds,mid
+129,acquadiparma,mandorlodisicilia,ylang-ylang,mid
+130,acquadiparma,mandorlodisicilia,vanilla,bot
+131,acquadiparma,mandorlodisicilia,cedar,bot
+132,acquadiparma,mandorlodisicilia,tolu balsam,bot
+133,acquadiparma,mandorlodisicilia,musk,bot
+134,acquadiparma,oud,bergamot,top
+135,acquadiparma,oud,orange,top
+136,acquadiparma,oud,amyris,mid
+137,acquadiparma,oud,coriander,mid
+138,acquadiparma,oud,agarwoon (oud),mid
+139,acquadiparma,oud,cedar,bot
+140,acquadiparma,oud,leather,bot
+141,acquadiparma,oud,patchouli,bot
+142,acquadiparma,oud,sandalwood,bot
+143,acquadiparma,oud,musk,bot
+144,acquadiparma,leather,orange,top
+145,acquadiparma,leather,lemon,top
+146,acquadiparma,leather,raspberry,top
+147,acquadiparma,leather,thyme,mid
+148,acquadiparma,leather,honeysuckle,mid
+149,acquadiparma,leather,petitgrain,mid
+150,acquadiparma,leather,rose,mid
+151,acquadiparma,leather,leather,bot
+152,acquadiparma,leather,cedar,bot
+153,acquadiparma,leather,guaiac wood,bot
+154,acquadiparma,ambra,orange,top
+155,acquadiparma,ambra,bergamot,top
+156,acquadiparma,ambra,petitgrain,top
+157,acquadiparma,ambra,rose,mid
+158,acquadiparma,ambra,cypriol oil or nagarmotha,mid
+159,acquadiparma,ambra,cedar,mid
+160,acquadiparma,ambra,patchouli,mid
+161,acquadiparma,ambra,ambergris,bot
+162,acquadiparma,ambra,sandalwood,bot
+163,acquadiparma,ambra,labdanum,bot
+164,acquadiparma,ambra,vanilla,bot
+165,acquadiparma,ambra,musk,bot
+166,acquadiparma,quercia,lemon,top
+167,acquadiparma,quercia,bergamot,top
+168,acquadiparma,quercia,petitgrain,top
+169,acquadiparma,quercia,pink pepper,top
+170,acquadiparma,quercia,cardamom,mid
+171,acquadiparma,quercia,geranium,mid
+172,acquadiparma,quercia,cedar,mid
+173,acquadiparma,quercia,tonka bean,bot
+174,acquadiparma,quercia,patchouli,bot
+175,acquadiparma,quercia,oakmoss,bot
+176,acquadiparma,sandalo,bergamot,top
+177,acquadiparma,sandalo,lemon,top
+178,acquadiparma,sandalo,orange,top
+179,acquadiparma,sandalo,petitgrain,top
+180,acquadiparma,sandalo,lavender,mid
+181,acquadiparma,sandalo,cardamom,mid
+182,acquadiparma,sandalo,sandalwood,bot
+183,acquadiparma,sandalo,amber,bot
+184,acquadiparma,sandalo,tonka bean,bot
+185,acquadiparma,vaniglia,bergamot,top
+186,acquadiparma,vaniglia,mandarin orange,top
+187,acquadiparma,vaniglia,neroli,top
+188,acquadiparma,vaniglia,heliotrope,top
+189,acquadiparma,vaniglia,jasmine,mid
+190,acquadiparma,vaniglia,vanilla,mid
+191,acquadiparma,vaniglia,cedar,bot
+192,acquadiparma,vaniglia,musk,bot
+193,acquadiparma,yuzu,yuzu,top
+194,acquadiparma,yuzu,bergamot,top
+195,acquadiparma,yuzu,sichuan pepper,top
+196,acquadiparma,yuzu,lotus,mid
+197,acquadiparma,yuzu,mimosa,mid
+198,acquadiparma,yuzu,violet leaf,mid
+199,acquadiparma,yuzu,jasmine,mid
+200,acquadiparma,yuzu,musk,bot
+201,acquadiparma,yuzu,licorice,bot
+202,acquadiparma,yuzu,sandalwood,bot
+203,acquadiparma,camelia,bergamot,top
+204,acquadiparma,camelia,mandarin orange,top
+205,acquadiparma,camelia,pink pepper,top
+206,acquadiparma,camelia,cardamom,top
+207,acquadiparma,camelia,camella,mid
+208,acquadiparma,camelia,clary sage,mid
+209,acquadiparma,camelia,benzoin,bot
+210,acquadiparma,camelia,musk,bot
+211,acquadiparma,osmanthus,mandarin orange,top
+212,acquadiparma,osmanthus,neroli,top
+213,acquadiparma,osmanthus,peony,mid
+214,acquadiparma,osmanthus,pink pepper,mid
+215,acquadiparma,osmanthus,ambrette (musk mallow),mid
+216,acquadiparma,osmanthus,osmanthus,bot
+217,acquadiparma,osmanthus,patchouli,bot
+218,acquadiparma,sakura,bergamot,top
+219,acquadiparma,sakura,mandarin orange,top
+220,acquadiparma,sakura,pink pepper,top
+221,acquadiparma,sakura,cherry blossom,mid
+222,acquadiparma,sakura,jasmine,mid
+223,acquadiparma,sakura,musk,bot
+224,acquadiparma,rosanobile,tangerine,top
+225,acquadiparma,rosanobile,bergamot,top
+226,acquadiparma,rosanobile,pepper,top
+227,acquadiparma,rosanobile,rose,mid
+228,acquadiparma,rosanobile,peony,mid
+229,acquadiparma,rosanobile,violet,mid
+230,acquadiparma,rosanobile,lily-of-the-valley,mid
+231,acquadiparma,rosanobile,musk,bot
+232,acquadiparma,rosanobile,cedarwood,bot
+233,acquadiparma,rosanobile,ambergris,bot
+234,acquadiparma,peonianobile,pepper,top
+235,acquadiparma,peonianobile,raspberry,top
+236,acquadiparma,peonianobile,peony,mid
+237,acquadiparma,peonianobile,geranium,mid
+238,acquadiparma,peonianobile,freesia,mid
+239,acquadiparma,peonianobile,rose,mid
+240,acquadiparma,peonianobile,amber,bot
+241,acquadiparma,peonianobile,patchouli,bot
+242,acquadiparma,peonianobile,musk,bot
+243,acquadiparma,magnolianobile,bergamot,top
+244,acquadiparma,magnolianobile,lemon,top
+245,acquadiparma,magnolianobile,citron,top
+246,acquadiparma,magnolianobile,magnolia,mid
+247,acquadiparma,magnolianobile,rose,mid
+248,acquadiparma,magnolianobile,tuberose,mid
+249,acquadiparma,magnolianobile,jasime,mid
+250,acquadiparma,magnolianobile,sandalwood,bot
+251,acquadiparma,magnolianobile,patchouli,bot
+252,acquadiparma,magnolianobile,vetiver,bot
+253,acquadiparma,magnolianobile,vanilla,bot
+254,acquadiparma,notedicoloniai,bergamot,top
+255,acquadiparma,notedicoloniai,neroli,top
+256,acquadiparma,notedicoloniai,lavender,mid
+257,acquadiparma,notedicoloniai,rose,mid
+258,acquadiparma,notedicoloniai,violet,mid
+259,acquadiparma,notedicoloniai,patchouli,bot
+260,acquadiparma,notedicoloniai,cedar,bot
+261,acquadiparma,notedicoloniaii,bergamot,top
+262,acquadiparma,notedicoloniaii,orange,top
+263,acquadiparma,notedicoloniaii,grapefruit,top
+264,acquadiparma,notedicoloniaii,cardamom,top
+265,acquadiparma,notedicoloniaii,basil,top
+266,acquadiparma,notedicoloniaii,sandalwood,mid
+267,acquadiparma,notedicoloniaii,guaiac wood,mid
+268,acquadiparma,notedicoloniaii,musk,bot
+269,acquadiparma,notedicoloniaii,vetiver,bot
+270,acquadiparma,notedicoloniaiii,mandarin orange,top
+271,acquadiparma,notedicoloniaiii,ginger,top
+272,acquadiparma,notedicoloniaiii,vetiver,mid
+273,acquadiparma,notedicoloniaiii,olibanum (frankincense),mid
+274,acquadiparma,notedicoloniaiii,jasmine,mid
+275,acquadiparma,notedicoloniaiii,tonka bean,bot
+276,acquadiparma,notedicoloniaiii,myrrh,bot
+277,acquadiparma,notedicoloniaiii,rose,bot
+278,acquadiparma,notedicoloniaiv,bergamot,top
+279,acquadiparma,notedicoloniaiv,mandarin orange,top
+280,acquadiparma,notedicoloniaiv,rose,mid
+281,acquadiparma,notedicoloniaiv,orange blossom,mid
+282,acquadiparma,notedicoloniaiv,opoponax,bot
+283,acquadiparma,notedicoloniaiv,rose,bot
+284,acquadiparma,notedicoloniaiv,patchouli,bot
+285,acquadiparma,notedicoloniav,lemon,top
+286,acquadiparma,notedicoloniav,bergamot,top
+287,acquadiparma,notedicoloniav,pink pepper,top
+288,acquadiparma,notedicoloniav,ginger,mid
+289,acquadiparma,notedicoloniav,juniper,mid
+290,acquadiparma,notedicoloniav,sandalwood,bot
+291,acquadiparma,notedicoloniav,cedar,bot
+292,byredo,mixedemotions,mate,top
+293,byredo,mixedemotions,black currant,top
+294,byredo,mixedemotions,earl grey tea,mid
+295,byredo,mixedemotions,violet leaf,mid
+296,byredo,mixedemotions,birch,bot
+297,byredo,mixedemotions,papyrus,bot
+298,byredo,gypsywater,bergamot,top
+299,byredo,gypsywater,juniper berries,top
+300,byredo,gypsywater,lemon,top
+301,byredo,gypsywater,pepper,top
+302,byredo,gypsywater,incense,mid
+303,byredo,gypsywater,orris root,mid
+304,byredo,gypsywater,pine tree,mid
+305,byredo,gypsywater,amber,bot
+306,byredo,gypsywater,sandalwood,bot
+307,byredo,gypsywater,vanilla,bot
+308,byredo,bald'afrique,marigold,top
+309,byredo,bald'afrique,bergamot,top
+310,byredo,bald'afrique,buchu,top
+311,byredo,bald'afrique,cyclamen,mid
+312,byredo,bald'afrique,violet,mid
+313,byredo,bald'afrique,cedar,bot
+314,byredo,bald'afrique,vetiver,bot
+315,byredo,roseofnoman'sland,pink pepper,top
+316,byredo,roseofnoman'sland,rose,top
+317,byredo,roseofnoman'sland,raspberry blossom,mid
+318,byredo,roseofnoman'sland,rose,mid
+319,byredo,roseofnoman'sland,papyrus,bot
+320,byredo,roseofnoman'sland,amber,bot
+321,byredo,blanche,aldehydes,top
+322,byredo,blanche,pink pepper,top
+323,byredo,blanche,rose,top
+324,byredo,blanche,neroli,mid
+325,byredo,blanche,peony,mid
+326,byredo,blanche,violet,mid
+327,byredo,blanche,woody notes,bot
+328,byredo,blanche,musk,bot
+329,byredo,blanche,sandalwood,bot
+330,byredo,mojaveghost,ambrette (musk mallow),top
+331,byredo,mojaveghost,magnolia,mid
+332,byredo,mojaveghost,sandalwood,mid
+333,byredo,mojaveghost,violet,mid
+334,byredo,mojaveghost,cedar,bot
+335,byredo,mojaveghost,musk,bot
+336,byredo,mojaveghost,amber,bot
+337,byredo,supercedar,rose,top
+338,byredo,supercedar,cedarwood,mid
+339,byredo,supercedar,vetiver,bot
+340,byredo,supercedar,musk,bot
+341,byredo,unnamed,unknown,top
+342,byredo,unnamed,unknown,mid
+343,byredo,unnamed,unknown,bot
+344,byredo,latulipe,cyclamen,top
+345,byredo,latulipe,freesia,top
+346,byredo,latulipe,rhubarb,top
+347,byredo,latulipe,tulip,mid
+348,byredo,latulipe,woody notes,bot
+349,byredo,latulipe,vetiver,bot
+350,byredo,biblioth챔que,peach,top
+351,byredo,biblioth챔que,plum,top
+352,byredo,biblioth챔que,peony,mid
+353,byredo,biblioth챔que,violet,mid
+354,byredo,biblioth챔que,leather,bot
+355,byredo,biblioth챔que,patchouli,bot
+356,byredo,biblioth챔que,vanilla,bot
+357,byredo,1996,pepper,top
+358,byredo,1996,juniper berries,top
+359,byredo,1996,leather,mid
+360,byredo,1996,orris root,mid
+361,byredo,1996,violet,mid
+362,byredo,1996,amber,bot
+363,byredo,1996,patchouli,bot
+364,byredo,1996,vanilla,bot
+365,byredo,oudimmortel,cardamom,top
+366,byredo,oudimmortel,incense,top
+367,byredo,oudimmortel,brazilian rosewood,mid
+368,byredo,oudimmortel,papyrus,mid
+369,byredo,oudimmortel,patchouli,mid
+370,byredo,oudimmortel,oakmoss,bot
+371,byredo,oudimmortel,tobacco blossom,bot
+372,byredo,eleventhhour,bergamot,top
+373,byredo,eleventhhour,pepper,top
+374,byredo,eleventhhour,rum,mid
+375,byredo,eleventhhour,carrot seeds,mid
+376,byredo,eleventhhour,fig,mid
+377,byredo,eleventhhour,tonka bean,bot
+378,byredo,eleventhhour,cashmir wood,bot
+379,byredo,mistermarvelous,mandarin orange blossom,top
+380,byredo,mistermarvelous,neroli,top
+381,byredo,mistermarvelous,bamboo,mid
+382,byredo,mistermarvelous,lavender,mid
+383,byredo,mistermarvelous,amber,bot
+384,byredo,mistermarvelous,cedar,bot
+385,byredo,casablancalily,plum,top
+386,byredo,casablancalily,gardenia,top
+387,byredo,casablancalily,carnation,mid
+388,byredo,casablancalily,tuberose,mid
+389,byredo,casablancalily,brazilian rosewood,bot
+390,byredo,casablancalily,honey,bot
+391,byredo,sellier,cashmeran,top
+392,byredo,sellier,earl grey tea,top
+393,byredo,sellier,leather,mid
+394,byredo,sellier,tobacco blossom,mid
+395,byredo,sellier,birch,bot
+396,byredo,sellier,oakmoss,bot
+397,byredo,reinedenuit,black currant,top
+398,byredo,reinedenuit,saffron,top
+399,byredo,reinedenuit,incense,mid
+400,byredo,reinedenuit,rose,mid
+401,byredo,reinedenuit,ambretts (musk mallow),bot
+402,byredo,reinedenuit,patchouli,bot
+403,byredo,rosenoir,cardamom,top
+404,byredo,rosenoir,freesia,top
+405,byredo,rosenoir,grapefruit,top
+406,byredo,rosenoir,red berries,top
+407,byredo,rosenoir,lily of the valley leaves,mid
+408,byredo,rosenoir,raspberry,mid
+409,byredo,rosenoir,rose,mid
+410,byredo,rosenoir,violet,mid
+411,byredo,rosenoir,jasmine,mid
+412,byredo,rosenoir,oakmoss,bot
+413,byredo,rosenoir,musk,bot
+414,byredo,rosenoir,patchouli,bot
+415,byredo,rosenoir,rose,bot
+416,byredo,slowdance,opoponax,top
+417,byredo,slowdance,geranium,mid
+418,byredo,slowdance,labdanum,mid
+419,byredo,slowdance,violet,mid
+420,byredo,slowdance,patchouli,bot
+421,byredo,slowdance,vanilla,bot
+422,byredo,accordoud,blackberry,top
+423,byredo,accordoud,rum,top
+424,byredo,accordoud,saffron,top
+425,byredo,accordoud,clary sage,mid
+426,byredo,accordoud,leather,mid
+427,byredo,accordoud,patchouli,bot
+428,byredo,accordoud,musk,bot
+429,byredo,tobaccomandarin,mandarin orange,top
+430,byredo,tobaccomandarin,coriander,top
+431,byredo,tobaccomandarin,cumin,top
+432,byredo,tobaccomandarin,labdanum,mid
+433,byredo,tobaccomandarin,leather,mid
+434,byredo,tobaccomandarin,tobacco,mid
+435,byredo,tobaccomandarin,sandalwood,bot
+436,byredo,tobaccomandarin,arganwood (oud),bot
+437,byredo,tobaccomandarin,olibanum (frankincense),bot
+438,byredo,m/mink,aldehydes,top
+439,byredo,m/mink,incense,mid
+440,byredo,m/mink,amber,bot
+441,byredo,m/mink,cedar,bot
+442,byredo,m/mink,honey,bot
+443,byredo,m/mink,patchouli,bot
+444,byredo,blacksaffron,juniper berries,top
+445,byredo,blacksaffron,pomelo,top
+446,byredo,blacksaffron,saffron,top
+447,byredo,blacksaffron,leather,mid
+448,byredo,blacksaffron,violet,mid
+449,byredo,blacksaffron,rose,mid
+450,byredo,blacksaffron,woody notes,bot
+451,byredo,blacksaffron,raspberry,bot
+452,byredo,blacksaffron,vetiver,bot
+453,byredo,lilfleur,saffron,top
+454,byredo,lilfleur,cassia,top
+455,byredo,lilfleur,tangerine,top
+456,byredo,lilfleur,leather,mid
+457,byredo,lilfleur,rose,mid
+458,byredo,lilfleur,amber,bot
+459,byredo,lilfleur,woody notes,bot
+460,byredo,lilfleur,vanilla,bot
+461,byredo,inflorescence,freesia,top
+462,byredo,inflorescence,rose,top
+463,byredo,inflorescence,lily of the valley leaves,mid
+464,byredo,inflorescence,magnolia,mid
+465,byredo,inflorescence,jasmine,bot
+466,byredo,sundaycologne,bergamot,top
+467,byredo,sundaycologne,cardamom,top
+468,byredo,sundaycologne,star anise,top
+469,byredo,sundaycologne,geranium,mid
+470,byredo,sundaycologne,incense,mid
+471,byredo,sundaycologne,lavender,mid
+472,byredo,sundaycologne,oakmoss,bot
+473,byredo,sundaycologne,patchouli,bot
+474,byredo,sundaycologne,vetiver,bot
+475,byredo,sundazed,lemon,top
+476,byredo,sundazed,mandarin orange,top
+477,byredo,sundazed,neroli,mid
+478,byredo,sundazed,jasmine,mid
+479,byredo,sundazed,musk,bot
+480,byredo,sundazed,cotton candy,bot
+481,byredo,palermo,bigarade,top
+482,byredo,palermo,bergamot,top
+483,byredo,palermo,musk,mid
+484,byredo,palermo,rose,mid
+485,byredo,palermo,ambretts (musk mallow),bot
+486,byredo,palermo,musk,bot
+487,byredo,pulp,bergamot,top
+488,byredo,pulp,black currant,top
+489,byredo,pulp,cardamom,top
+490,byredo,pulp,fig,mid
+491,byredo,pulp,red apple,mid
+492,byredo,pulp,tiare flower,mid
+493,byredo,pulp,cedar,bot
+494,byredo,pulp,peach blossom,bot
+495,byredo,pulp,praline,bot
+496,byredo,flowerhead,angelica,top
+497,byredo,flowerhead,lingonberry,top
+498,byredo,flowerhead,lemon,top
+499,byredo,flowerhead,tuberose,mid
+500,byredo,flowerhead,rose,mid
+501,byredo,flowerhead,jasmine,mid
+502,byredo,flowerhead,amber,bot
+503,byredo,flowerhead,suede,bot
+504,byredo,velvethaze,ambrette (musk mallow),top
+505,byredo,velvethaze,coconut water,top
+506,byredo,velvethaze,patchouli,mid
+507,byredo,velvethaze,musk,bot
+508,byredo,velvethaze,dark chocolate,bot
+509,byredo,velvethaze,musk,bot
+510,maisonmargiela,replicaatthebarber's,bigarade,top
+511,maisonmargiela,replicaatthebarber's,basil,top
+512,maisonmargiela,replicaatthebarber's,pepper,top
+513,maisonmargiela,replicaatthebarber's,geranium,mid
+514,maisonmargiela,replicaatthebarber's,lavender,mid
+515,maisonmargiela,replicaatthebarber's,rosemary,mid
+516,maisonmargiela,replicaatthebarber's,tonka bean,bot
+517,maisonmargiela,replicaatthebarber's,oakmoss,bot
+518,maisonmargiela,replicaatthebarber's,musk,bot
+519,maisonmargiela,replicaatthebarber's,tonka bean,bot
+520,maisonmargiela,replicaatthebarber's,pepper,bot
+521,maisonmargiela,replicaatthebarber's,rosemary,bot
+522,maisonmargiela,replicaatthebarber's,basil,bot
+523,maisonmargiela,replicabeachwalk,bergamot,top
+524,maisonmargiela,replicabeachwalk,pink pepper,top
+525,maisonmargiela,replicabeachwalk,lemon,top
+526,maisonmargiela,replicabeachwalk,aldehydes,mid
+527,maisonmargiela,replicabeachwalk,ylang-ylang,mid
+528,maisonmargiela,replicabeachwalk,coconut,mid
+529,maisonmargiela,replicabeachwalk,musk,bot
+530,maisonmargiela,replicabeachwalk,cedar,bot
+531,maisonmargiela,replicabeachwalk,benzoin,bot
+532,maisonmargiela,replicabubblebath,fig leaf,top
+533,maisonmargiela,replicabubblebath,freesia,top
+534,maisonmargiela,replicabubblebath,jasmine,mid
+535,maisonmargiela,replicabubblebath,jasmine,mid
+536,maisonmargiela,replicabubblebath,tuberose,mid
+537,maisonmargiela,replicabubblebath,rose,mid
+538,maisonmargiela,replicabubblebath,peach,bot
+539,maisonmargiela,replicabubblebath,cedar,bot
+540,maisonmargiela,replicabubblebath,oakmoss,bot
+541,maisonmargiela,replicabythefireplace,pink pepper,top
+542,maisonmargiela,replicabythefireplace,orange blossom,top
+543,maisonmargiela,replicabythefireplace,clove leaf,top
+544,maisonmargiela,replicabythefireplace,chestnut,mid
+545,maisonmargiela,replicabythefireplace,ga챦ac wood oil,mid
+546,maisonmargiela,replicabythefireplace,cade oil,mid
+547,maisonmargiela,replicabythefireplace,vanilla,bot
+548,maisonmargiela,replicabythefireplace,peru balsam,bot
+549,maisonmargiela,replicabythefireplace,cashmeran,bot
+550,maisonmargiela,replicacoffeebreak,pepper,top
+551,maisonmargiela,replicacoffeebreak,orange blossom,top
+552,maisonmargiela,replicacoffeebreak,patchouli,top
+553,maisonmargiela,replicacoffeebreak,cypriol oil or nagarmotha,mid
+554,maisonmargiela,replicacoffeebreak,tonka bean,mid
+555,maisonmargiela,replicacoffeebreak,benzoin,mid
+556,maisonmargiela,replicacoffeebreak,vanilla,bot
+557,maisonmargiela,replicacoffeebreak,cedarwood entrain챕,bot
+558,maisonmargiela,replicacoffeebreak,vetiver,bot
+559,maisonmargiela,replicaflowermarket,currant leaf and bud,top
+560,maisonmargiela,replicaflowermarket,freesia,top
+561,maisonmargiela,replicaflowermarket,jasmine,top
+562,maisonmargiela,replicaflowermarket,jasmine,mid
+563,maisonmargiela,replicaflowermarket,tuberose,mid
+564,maisonmargiela,replicaflowermarket,rose,mid
+565,maisonmargiela,replicaflowermarket,peach,bot
+566,maisonmargiela,replicaflowermarket,cedar,bot
+567,maisonmargiela,replicaflowermarket,oakmoss,bot
+568,maisonmargiela,replicajazzclub,lemon,top
+569,maisonmargiela,replicajazzclub,pink pepper,top
+570,maisonmargiela,replicajazzclub,neroli,top
+571,maisonmargiela,replicajazzclub,clary sage,mid
+572,maisonmargiela,replicajazzclub,rum,mid
+573,maisonmargiela,replicajazzclub,vetiver,mid
+574,maisonmargiela,replicajazzclub,styrax,bot
+575,maisonmargiela,replicajazzclub,tobacco blossom,bot
+576,maisonmargiela,replicajazzclub,vanilla,bot
+577,maisonmargiela,replicalazysundaymorning,pear,top
+578,maisonmargiela,replicalazysundaymorning,ambretts (musk mallow),top
+579,maisonmargiela,replicalazysundaymorning,aldehydes,top
+580,maisonmargiela,replicalazysundaymorning,iris,mid
+581,maisonmargiela,replicalazysundaymorning,rose,mid
+582,maisonmargiela,replicalazysundaymorning,orange blossom,mid
+583,maisonmargiela,replicalazysundaymorning,patchouli,bot
+584,maisonmargiela,replicalazysundaymorning,woody notes,bot
+585,maisonmargiela,replicalazysundaymorning,musk,bot
+586,maisonmargiela,replicamatchameditation,bergamot,top
+587,maisonmargiela,replicamatchameditation,mandarin orange,top
+588,maisonmargiela,replicamatchameditation,matcha tea,top
+589,maisonmargiela,replicamatchameditation,matcha tea,mid
+590,maisonmargiela,replicamatchameditation,orange blossom,mid
+591,maisonmargiela,replicamatchameditation,jasmine,mid
+592,maisonmargiela,replicamatchameditation,benzoin,bot
+593,maisonmargiela,replicamatchameditation,oakmoss,bot
+594,maisonmargiela,replicamatchameditation,white chocolate,bot
+595,maisonmargiela,replicamusicfestival,horseweed,top
+596,maisonmargiela,replicamusicfestival,violet,top
+597,maisonmargiela,replicamusicfestival,red apple,top
+598,maisonmargiela,replicamusicfestival,patchouli,mid
+599,maisonmargiela,replicamusicfestival,tobacco,mid
+600,maisonmargiela,replicamusicfestival,incense,mid
+601,maisonmargiela,replicamusicfestival,leather,bot
+602,maisonmargiela,replicamusicfestival,cedar,bot
+603,maisonmargiela,replicamusicfestival,cypress,bot
+604,maisonmargiela,replicasailingday,water,top
+605,maisonmargiela,replicasailingday,aldehydes,top
+606,maisonmargiela,replicasailingday,juniper,top
+607,maisonmargiela,replicasailingday,coriander,mid
+608,maisonmargiela,replicasailingday,iris,mid
+609,maisonmargiela,replicasailingday,rose,mid
+610,maisonmargiela,replicasailingday,seweed,bot
+611,maisonmargiela,replicasailingday,ambergris,bot
+612,maisonmargiela,replicasailingday,musk,bot
+613,maisonmargiela,replicaspringtimeinapark,pear,top
+614,maisonmargiela,replicaspringtimeinapark,bergamot,top
+615,maisonmargiela,replicaspringtimeinapark,black currant,top
+616,maisonmargiela,replicaspringtimeinapark,lily of the valley leaves,mid
+617,maisonmargiela,replicaspringtimeinapark,jasmine,mid
+618,maisonmargiela,replicaspringtimeinapark,rose,mid
+619,maisonmargiela,replicaspringtimeinapark,musk,bot
+620,maisonmargiela,replicaspringtimeinapark,vanilla,bot
+621,maisonmargiela,replicaspringtimeinapark,ambroxan,bot
+622,maisonmargiela,replicaunderthelemontrees,calamansi,top
+623,maisonmargiela,replicaunderthelemontrees,petitgrain,top
+624,maisonmargiela,replicaunderthelemontrees,cardamom,top
+625,maisonmargiela,replicaunderthelemontrees,coriander,mid
+626,maisonmargiela,replicaunderthelemontrees,mate,mid
+627,maisonmargiela,replicaunderthelemontrees,matcha tea,mid
+628,maisonmargiela,replicaunderthelemontrees,cedar,bot
+629,maisonmargiela,replicaunderthelemontrees,musk,bot
+630,maisonmargiela,replicawhispersinthelibrary,pepper,top
+631,maisonmargiela,replicawhispersinthelibrary,orange blossom,top
+632,maisonmargiela,replicawhispersinthelibrary,patchouli,top
+633,maisonmargiela,replicawhispersinthelibrary,cypriol oil or nagarmotha,mid
+634,maisonmargiela,replicawhispersinthelibrary,tonka bean,mid
+635,maisonmargiela,replicawhispersinthelibrary,benzoin,mid
+636,maisonmargiela,replicawhispersinthelibrary,vanilla,bot
+637,maisonmargiela,replicawhispersinthelibrary,cedarwood entrain챕,bot
+638,maisonmargiela,replicawhispersinthelibrary,vetiver,bot
+639,santamarianovella,acquadis.m.novella,citruses,top
+640,santamarianovella,acquadis.m.novella,lavender,mid
+641,santamarianovella,acquadis.m.novella,rosemary,mid
+642,santamarianovella,acquadis.m.novella,oriental notes,bot
+643,santamarianovella,angelidifirenze,jasmine,top
+644,santamarianovella,angelidifirenze,ylang-ylang,top
+645,santamarianovella,angelidifirenze,cyclamen,top
+646,santamarianovella,angelidifirenze,peach,mid
+647,santamarianovella,angelidifirenze,melon,mid
+648,santamarianovella,angelidifirenze,black currant,mid
+649,santamarianovella,angelidifirenze,iris,mid
+650,santamarianovella,angelidifirenze,vanilla,bot
+651,santamarianovella,angelidifirenze,musk,bot
+652,santamarianovella,angelidifirenze,woody notes,bot
+653,santamarianovella,fresia,single floral fresia,top
+654,santamarianovella,fresia,single floral fresia,mid
+655,santamarianovella,fresia,single floral fresia,bot
+656,santamarianovella,tabaccotoscano,bergamot,top
+657,santamarianovella,tabaccotoscano,jasmine,top
+658,santamarianovella,tabaccotoscano,tobacco,mid
+659,santamarianovella,tabaccotoscano,birch,mid
+660,santamarianovella,tabaccotoscano,indian spices,mid
+661,santamarianovella,tabaccotoscano,cedar,bot
+662,santamarianovella,tabaccotoscano,vanilla,bot
+663,santamarianovella,tabaccotoscano,malt,bot
+664,santamarianovella,melograno,floral notes,top
+665,santamarianovella,melograno,citruses,top
+666,santamarianovella,melograno,floral notes,mid
+667,santamarianovella,melograno,oriental notes,bot
+668,santamarianovella,potpourri,citruses,top
+669,santamarianovella,potpourri,lavender,top
+670,santamarianovella,potpourri,rosemary,mid
+671,santamarianovella,potpourri,thyme,mid
+672,santamarianovella,potpourri,patchouli,bot
+673,santamarianovella,rosa,floral notes,top
+674,santamarianovella,rosa,rose,mid
+675,santamarianovella,rosa,limnophila aromatica,bot
+676,santamarianovella,rosanovella,citruses,top
+677,santamarianovella,rosanovella,floral notes,top
+678,santamarianovella,rosanovella,woody,top
+679,santamarianovella,rosanovella,citruses,mid
+680,santamarianovella,rosanovella,floral notes,mid
+681,santamarianovella,rosanovella,woody,mid
+682,santamarianovella,rosanovella,citruses,bot
+683,santamarianovella,rosanovella,floral notes,bot
+684,santamarianovella,rosanovella,woody,bot
+685,santamarianovella,acquadicuba,citruses,top
+686,santamarianovella,acquadicuba,cardamom,top
+687,santamarianovella,acquadicuba,tobacco blossom,mid
+688,santamarianovella,acquadicuba,honey,mid
+689,santamarianovella,acquadicuba,indian spices,mid
+690,santamarianovella,acquadicuba,honey,bot
+691,santamarianovella,acquadicuba,clary sage,bot
+692,santamarianovella,acquadisicilia,bergamot,top
+693,santamarianovella,acquadisicilia,lemon,top
+694,santamarianovella,acquadisicilia,neroli,top
+695,santamarianovella,acquadisicilia,petitgrain,mid
+696,santamarianovella,acquadisicilia,rosemary,mid
+697,santamarianovella,acquadisicilia,benzoin,bot
+698,santamarianovella,albadiseoul,bergamot,top
+699,santamarianovella,albadiseoul,indian spices,top
+700,santamarianovella,albadiseoul,pine tree,mid
+701,santamarianovella,albadiseoul,pine tree,bot
+702,santamarianovella,albadiseoul,patchouli,bot
+703,santamarianovella,calarossa,lavender,top
+704,santamarianovella,calarossa,mint,top
+705,santamarianovella,calarossa,eucalyptus,top
+706,santamarianovella,calarossa,sunflower,mid
+707,santamarianovella,calarossa,fennel,mid
+708,santamarianovella,calarossa,rosemary,bot
+709,santamarianovella,calarossa,myrtle,bot
+710,santamarianovella,cinquanta,gardenia,top
+711,santamarianovella,cinquanta,orange blossom,top
+712,santamarianovella,cinquanta,matcha tea,mid
+713,santamarianovella,cinquanta,wood,mid
+714,santamarianovella,cinquanta,amber,bot
+715,santamarianovella,cinquanta,woody notes,bot
+716,santamarianovella,cinquanta,musk,bot
+717,santamarianovella,eva,lemon,top
+718,santamarianovella,eva,bitter orange,top
+719,santamarianovella,eva,pepper,mid
+720,santamarianovella,eva,vetiver,bot
+721,santamarianovella,eva,cedar,bot
+722,santamarianovella,fieno,citruses,top
+723,santamarianovella,fieno,rose,mid
+724,santamarianovella,fieno,myrtle,mid
+725,santamarianovella,fieno,hawthorn,mid
+726,santamarianovella,fieno,sandalwood,bot
+727,santamarianovella,fieno,resin,bot
+728,santamarianovella,fieno,vetiver,bot
+729,santamarianovella,gelsomino,jasmine,top
+730,santamarianovella,gelsomino,jasmine,mid
+731,santamarianovella,gelsomino,jasmine,bot
+732,santamarianovella,ginestra,lydia broom,top
+733,santamarianovella,ginestra,floral notes,mid
+734,santamarianovella,ginestra,musk,bot
+735,santamarianovella,ginestra,wood,bot
+736,santamarianovella,iris,aldehydes,top
+737,santamarianovella,iris,floral notes,mid
+738,santamarianovella,iris,iris,bot
+739,santamarianovella,iris,oak,bot
+740,santamarianovella,lana,cardamom,top
+741,santamarianovella,lana,fig leaf,top
+742,santamarianovella,lana,bergamot,top
+743,santamarianovella,lana,rose,mid
+744,santamarianovella,lana,green notes,mid
+745,santamarianovella,lana,sea water,mid
+746,santamarianovella,lana,musk,bot
+747,santamarianovella,lana,woody notes,bot
+748,santamarianovella,marescialla,citruses,top
+749,santamarianovella,marescialla,mace,top
+750,santamarianovella,marescialla,cedar,mid
+751,santamarianovella,marescialla,rose,mid
+752,santamarianovella,marescialla,wood,bot
+753,santamarianovella,marescialla,musk,bot
+754,santamarianovella,mughetto,mughetto (lily of the valley),top
+755,santamarianovella,mughetto,mughetto (lily of the valley),mid
+756,santamarianovella,mughetto,mughetto (lily of the valley),bot
+757,santamarianovella,muschio,oriental soft mossy note (musk),top
+758,santamarianovella,muschio,oriental soft mossy note (musk),mid
+759,santamarianovella,muschio,oriental soft mossy note (musk),bot
+760,santamarianovella,muschiooro,woody soft mossy note (golden musk),top
+761,santamarianovella,muschiooro,woody soft mossy note (golden musk),mid
+762,santamarianovella,muschiooro,woody soft mossy note (golden musk),bot
+763,santamarianovella,nostalgia,rubber,top
+764,santamarianovella,nostalgia,resins,top
+765,santamarianovella,nostalgia,bergamot,top
+766,santamarianovella,nostalgia,patchouli,mid
+767,santamarianovella,nostalgia,cedar,mid
+768,santamarianovella,nostalgia,tobacco blossom,bot
+769,santamarianovella,nostalgia,vanilla,bot
+770,santamarianovella,opoponax,woody oriental,top
+771,santamarianovella,opoponax,woody oriental,mid
+772,santamarianovella,opoponax,woody oriental,bot
+773,santamarianovella,patchouli,floral notes,top
+774,santamarianovella,patchouli,brazilian rosewood,mid
+775,santamarianovella,patchouli,patchouli,bot
+776,santamarianovella,patchouli,sandalwood,bot
+777,santamarianovella,patchouli,oak,bot
+778,santamarianovella,peaud'espagne,bergamot,top
+779,santamarianovella,peaud'espagne,jasmine,top
+780,santamarianovella,peaud'espagne,violet leaf,mid
+781,santamarianovella,peaud'espagne,hawthorn,mid
+782,santamarianovella,peaud'espagne,wood,bot
+783,santamarianovella,russa,citruses,top
+784,santamarianovella,russa,bergamot,top
+785,santamarianovella,russa,petitgrain,mid
+786,santamarianovella,russa,green notes,mid
+787,santamarianovella,russa,cloves,mid
+788,santamarianovella,russa,benzoin,bot
+789,santamarianovella,sandalo,oriental sandalwood,top
+790,santamarianovella,sandalo,oriental sandalwood,mid
+791,santamarianovella,sandalo,oriental sandalwood,bot
+792,santamarianovella,tuberosa,floral oriental tuberose,top
+793,santamarianovella,tuberosa,floral oriental tuberose,mid
+794,santamarianovella,tuberosa,floral oriental tuberose,bot
+795,santamarianovella,vaniglia,soft oriental vanilla,top
+796,santamarianovella,vaniglia,soft oriental vanilla,mid
+797,santamarianovella,vaniglia,soft oriental vanilla,bot
+798,santamarianovella,vetiver,woody oriental vetiver,top
+799,santamarianovella,vetiver,woody oriental vetiver,mid
+800,santamarianovella,vetiver,woody oriental vetiver,bot
+801,santamarianovella,zagara,citrus floral,top
+802,santamarianovella,zagara,citrus floral,mid
+803,santamarianovella,zagara,citrus floral,bot
+804,santamarianovella,lavandaimperiale,bergamot,top
+805,santamarianovella,lavandaimperiale,ylang-ylang,top
+806,santamarianovella,lavandaimperiale,lavender,mid
+807,santamarianovella,lavandaimperiale,sage,bot
+808,santamarianovella,lavandaambrata,aromatic soft oriental,top
+809,santamarianovella,lavandaambrata,aromatic soft oriental,mid
+810,santamarianovella,lavandaambrata,aromatic soft oriental,bot
+811,jomalone,154,grapefruit,top
+812,jomalone,154,bergamot,top
+813,jomalone,154,mandarin orange,top
+814,jomalone,154,nutmeg,mid
+815,jomalone,154,lavender,mid
+816,jomalone,154,basil,mid
+817,jomalone,154,vetiver,bot
+818,jomalone,154,patchouli,bot
+819,jomalone,154,musk,bot
+820,jomalone,154,vanilla,bot
+821,jomalone,grapefruit,grapefruit,top
+822,jomalone,grapefruit,tangerine,top
+823,jomalone,grapefruit,rosemary,mid
+824,jomalone,grapefruit,mint,mid
+825,jomalone,grapefruit,green pepper,mid
+826,jomalone,grapefruit,jasmine,mid
+827,jomalone,grapefruit,vetiver,bot
+828,jomalone,grapefruit,oakmoss,bot
+829,jomalone,grapefruit,patchouli,bot
+830,jomalone,nectarineblossom&honey,green notes,top
+831,jomalone,nectarineblossom&honey,black currant,top
+832,jomalone,nectarineblossom&honey,petitgrain,top
+833,jomalone,nectarineblossom&honey,nectarine,mid
+834,jomalone,nectarineblossom&honey,black locust,mid
+835,jomalone,nectarineblossom&honey,peach,bot
+836,jomalone,nectarineblossom&honey,plum,bot
+837,jomalone,nectarineblossom&honey,vetiver,bot
+838,jomalone,darkamber&gingerlily,ginger,top
+839,jomalone,darkamber&gingerlily,cardamon,top
+840,jomalone,darkamber&gingerlily,pink pepper,top
+841,jomalone,darkamber&gingerlily,water lily,mid
+842,jomalone,darkamber&gingerlily,orchid,mid
+843,jomalone,darkamber&gingerlily,jasmine,mid
+844,jomalone,darkamber&gingerlily,rose,mid
+845,jomalone,darkamber&gingerlily,sandalwood,bot
+846,jomalone,darkamber&gingerlily,amber,bot
+847,jomalone,darkamber&gingerlily,olibanum(frankincense),bot
+848,jomalone,darkamber&gingerlily,patchouli,bot
+849,jomalone,darkamber&gingerlily,leather,bot
+850,jomalone,limebasil&mandarin,lime,top
+851,jomalone,limebasil&mandarin,mandarin orange,top
+852,jomalone,limebasil&mandarin,bergamot,top
+853,jomalone,limebasil&mandarin,basil,mid
+854,jomalone,limebasil&mandarin,thyme,mid
+855,jomalone,limebasil&mandarin,iris,mid
+856,jomalone,limebasil&mandarin,lilac,mid
+857,jomalone,limebasil&mandarin,vetiver,bot
+858,jomalone,limebasil&mandarin,patchouli,bot
+859,jomalone,redroses,lemon,top
+860,jomalone,redroses,mint,top
+861,jomalone,redroses,rose,mid
+862,jomalone,redroses,violet leaf,mid
+863,jomalone,redroses,beeswax,bot
+864,jomalone,mayrrh&tonka,lavender,top
+865,jomalone,mayrrh&tonka,myrrh,mid
+866,jomalone,mayrrh&tonka,tonka bean,bot
+867,jomalone,mayrrh&tonka,vanilla,bot
+868,jomalone,mayrrh&tonka,almond,bot
+869,jomalone,mimosa&cardamom,cardamom,top
+870,jomalone,mimosa&cardamom,mimosa,mid
+871,jomalone,mimosa&cardamom,tonka bean,bot
+872,jomalone,basil&neroli,basil,top
+873,jomalone,basil&neroli,neroli,mid
+874,jomalone,basil&neroli,vetiver,bot
+875,jomalone,basil&neroli,musk,bot
+876,jomalone,vetiver&goldenvarilla,vanilla,bot
+877,jomalone,vetiver&goldenvarilla,vetiver,bot
+878,jomalone,vetiver&goldenvarilla,cardamom,bot
+879,jomalone,vetiver&goldenvarilla,tea,bot
+880,jomalone,vetiver&goldenvarilla,grapefruit,bot
+881,jomalone,velvetrose&oud,rose,bot
+882,jomalone,velvetrose&oud,agarwood (oud),bot
+883,jomalone,velvetrose&oud,praline,bot
+884,jomalone,velvetrose&oud,cloves,bot
+885,jomalone,blackberry&bay,blackberry,bot
+886,jomalone,blackberry&bay,bay leaf,bot
+887,jomalone,blackberry&bay,grapefruit,bot
+888,jomalone,blackberry&bay,cedar,bot
+889,jomalone,blackberry&bay,vetiver,bot
+890,jomalone,blackberry&bay,floral notes,bot
+891,jomalone,amber&lavender,lavender,bot
+892,jomalone,amber&lavender,bergamot,bot
+893,jomalone,amber&lavender,mint,bot
+894,jomalone,amber&lavender,cloves,mid
+895,jomalone,valley,cinnamon,mid
+896,jomalone,valley,amber,bot
+897,jomalone,valley,patchouli,bot
+898,jomalone,valley,myrrh,bot
+899,jomalone,earlgrey&cucumber,bergamot,top
+900,jomalone,earlgrey&cucumber,water notes,top
+901,jomalone,earlgrey&cucumber,jasmine,top
+902,jomalone,earlgrey&cucumber,red apple,top
+903,jomalone,earlgrey&cucumber,angelica,mid
+904,jomalone,earlgrey&cucumber,cucumber,mid
+905,jomalone,earlgrey&cucumber,beeswax,bot
+906,jomalone,earlgrey&cucumber,musk,bot
+907,jomalone,earlgrey&cucumber,cedar,bot
+908,jomalone,earlgrey&cucumber,vanilla,bot
+909,jomalone,oud&bergamot,agarwood (oud),bot
+910,jomalone,oud&bergamot,bergamot,bot
+911,jomalone,oud&bergamot,cedar,bot
+912,jomalone,oud&bergamot,orange,bot
+913,jomalone,oud&bergamot,lemon,bot
+914,jomalone,orangeblossom,tangerine blossom,top
+915,jomalone,orangeblossom,orange blossom,mid
+916,jomalone,orangeblossom,lilac,mid
+917,jomalone,orangeblossom,water lily,mid
+918,jomalone,orangeblossom,iris,bot
+919,jomalone,orangeblossom,vetiver,bot
+920,jomalone,wildbluebell,bellflower,top
+921,jomalone,wildbluebell,cloves,top
+922,jomalone,valley,rose hip,mid
+923,jomalone,valley,jasmine,mid
+924,jomalone,valley,musk,bot
+925,jomalone,valley,amber,bot
+926,jomalone,woodsage&seasalt,salt,bot
+927,jomalone,woodsage&seasalt,sage,bot
+928,jomalone,woodsage&seasalt,grapefruit,bot
+929,jomalone,woodsage&seasalt,ambrette (musk mallow),bot
+930,jomalone,woodsage&seasalt,seaweed,bot
+931,jomalone,englishoak&hazelnut,hazelnut,top
+932,jomalone,englishoak&hazelnut,cedar,mid
+933,jomalone,englishoak&hazelnut,oak,bot
+934,jomalone,englishpear&fressia,hazelnut,top
+935,jomalone,englishpear&fressia,cedar,mid
+936,jomalone,englishpear&fressia,oak,bot
+937,jomalone,tuberoseangelica,angelica,top
+938,jomalone,tuberoseangelica,tuberose,mid
+939,jomalone,tuberoseangelica,amber,bot
+940,jomalone,tuberoseangelica,woodsy notes,bot
+941,jomalone,pomegranatenoir,pomegranate,top
+942,jomalone,pomegranatenoir,rhubarb,top
+943,jomalone,pomegranatenoir,plum,top
+944,jomalone,pomegranatenoir,raspberry,top
+945,jomalone,pomegranatenoir,watermelon,top
+946,jomalone,pomegranatenoir,cloves,mid
+947,jomalone,pomegranatenoir,pink pepper,mid
+948,jomalone,pomegranatenoir,guaiac wood,mid
+949,jomalone,pomegranatenoir,olibanum (frankincense),mid
+950,jomalone,pomegranatenoir,opoponax,mid
+951,jomalone,pomegranatenoir,rose,mid
+952,jomalone,pomegranatenoir,jasmine,mid
+953,jomalone,valley,cedar,bot
+954,jomalone,valley,patchouli,bot
+955,jomalone,valley,musk,bot
+956,jomalone,valley,amber,bot
+957,jomalone,poppy&barley,fig,top
+958,jomalone,poppy&barley,black currant,top
+959,jomalone,poppy&barley,violet,top
+960,jomalone,poppy&barley,wheat,mid
+961,jomalone,poppy&barley,powdery notes,mid
+962,jomalone,poppy&barley,poppy,mid
+963,jomalone,poppy&barley,barley,bot
+964,jomalone,poppy&barley,musk,bot
+965,jomalone,poppy&barley,bran,bot
+966,jomalone,peony&blushsuede,red apple,top
+967,jomalone,peony&blushsuede,peony,mid
+968,jomalone,peony&blushsuede,rose,mid
+969,jomalone,peony&blushsuede,jasmine,mid
+970,jomalone,peony&blushsuede,carnation,mid
+971,jomalone,peony&blushsuede,suede,bot
+972,jomalone,honeysuckle&davana,davana,top
+973,jomalone,honeysuckle&davana,honeysuckle,mid
+974,jomalone,honeysuckle&davana,rose,mid
+975,jomalone,honeysuckle&davana,oakmoss,bot
+976,diptyque,l'eaudeshespérides,bitter orange,top
+977,diptyque,l'eaudeshespérides,petitgrain,top
+978,diptyque,l'eaudeshespérides,mandarin orange,top
+979,diptyque,l'eaudeshespérides,grass,top
+980,diptyque,l'eaudeshespérides,rosemary,top
+981,diptyque,l'eaudeshespérides,lemon,top
+982,diptyque,l'eaudeshespérides,caraway,top
+983,diptyque,l'eaudeshespérides,pepper,top
+984,diptyque,l'eaudeshespérides,mint,mid
+985,diptyque,l'eaudeshespérides,floral notes,mid
+986,diptyque,l'eaudeshespérides,immortelle,bot
+987,diptyque,l'eaudeshespérides,musk,bot
+988,diptyque,l'eaudeshespérides,cedar,bot
+989,diptyque,l'eaudenérolieaudetoilette,citruses,top
+990,diptyque,l'eaudenérolieaudetoilette,bergamot,top
+991,diptyque,l'eaudenérolieaudetoilette,lemon verbena,top
+992,diptyque,l'eaudenérolieaudetoilette,petitgrain,top
+993,diptyque,l'eaudenérolieaudetoilette,tarragon,top
+994,diptyque,l'eaudenérolieaudetoilette,neroli,mid
+995,diptyque,l'eaudenérolieaudetoilette,orange blossom,mid
+996,diptyque,l'eaudenérolieaudetoilette,pelargonium,mid
+997,diptyque,l'eaudenérolieaudetoilette,beeswax,bot
+998,diptyque,l'eaudenérolieaudetoilette,musk,bot
+999,diptyque,l'eaudenérolieaudetoilette,cedar,bot
+1000,diptyque,geraniumodorataeaudetoilette,geranium,bot
+1001,diptyque,geraniumodorataeaudetoilette,bergamot,bot
+1002,diptyque,geraniumodorataeaudetoilette,vetiver,bot
+1003,diptyque,geraniumodorataeaudetoilette,pink pepper,bot
+1004,diptyque,geraniumodorataeaudetoilette,cedar,bot
+1005,diptyque,geraniumodorataeaudetoilette,tonka bean,bot
+1006,diptyque,vetyverioeaudetoilette,grapefruit,top
+1007,diptyque,vetyverioeaudetoilette,lemon,top
+1008,diptyque,vetyverioeaudetoilette,bergamot,top
+1009,diptyque,vetyverioeaudetoilette,mandarin orange,top
+1010,diptyque,vetyverioeaudetoilette,geranium,mid
+1011,diptyque,vetyverioeaudetoilette,rose,mid
+1012,diptyque,ylang,nutmeg,mid
+1013,diptyque,ylang,carrot seeds,mid
+1014,diptyque,ylang,cloves,mid
+1015,diptyque,ylang,vetiver,bot
+1016,diptyque,ylang,musk,bot
+1017,diptyque,ylang,cedar,bot
+1018,diptyque,l'eautroiseaudetoilette,rosemary,top
+1019,diptyque,l'eautroiseaudetoilette,myrtle,top
+1020,diptyque,l'eautroiseaudetoilette,myrrh,mid
+1021,diptyque,l'eautroiseaudetoilette,indian spices,mid
+1022,diptyque,l'eautroiseaudetoilette,caraway,mid
+1023,diptyque,l'eautroiseaudetoilette,pine tree,bot
+1024,diptyque,l'eautroiseaudetoilette,olibanum(frankincense),bot
+1025,diptyque,l'eautroiseaudetoilette,myrrh,bot
+1026,diptyque,tamdaoeaudetoilette,cypress,top
+1027,diptyque,tamdaoeaudetoilette,myrtle,top
+1028,diptyque,tamdaoeaudetoilette,rose,top
+1029,diptyque,tamdaoeaudetoilette,sandalwood,mid
+1030,diptyque,tamdaoeaudetoilette,cedar,mid
+1031,diptyque,tamdaoeaudetoilette,brazilian rosewood,bot
+1032,diptyque,tamdaoeaudetoilette,indian spices,bot
+1033,diptyque,tamdaoeaudetoilette,amber,bot
+1034,diptyque,tamdaoeaudetoilette,musk,bot
+1035,diptyque,philosykoseaudetoilette,fig leaf,top
+1036,diptyque,philosykoseaudetoilette,fig,top
+1037,diptyque,philosykoseaudetoilette,green notes,mid
+1038,diptyque,philosykoseaudetoilette,coconut,mid
+1039,diptyque,philosykoseaudetoilette,fig tree,bot
+1040,diptyque,philosykoseaudetoilette,woody notes,bot
+1041,diptyque,philosykoseaudetoilette,cedar,bot
+1042,diptyque,oyédoeaudetoilette,mandarin orange,top
+1043,diptyque,oyédoeaudetoilette,yuzu,top
+1044,diptyque,oyédoeaudetoilette,lemon,top
+1045,diptyque,oyédoeaudetoilette,lime,top
+1046,diptyque,oyédoeaudetoilette,thyme,mid
+1047,diptyque,oyédoeaudetoilette,woodsy notes,bot
+1048,diptyque,eaulenteeaudetoilette,cloves,top
+1049,diptyque,eaulenteeaudetoilette,cinnamon,top
+1050,diptyque,eaulenteeaudetoilette,indian spices,mid
+1051,diptyque,eaulenteeaudetoilette,opoponax,bot
+1052,diptyque,ofrésiaeaudetoilette,pepper,top
+1053,diptyque,ofrésiaeaudetoilette,freesia,mid
+1054,diptyque,ofrésiaeaudetoilette,woodsy notes,bot
+1055,diptyque,eaudelierreeaudetoilette,ivy,bot
+1056,diptyque,eaudelierreeaudetoilette,cyclamen,bot
+1057,diptyque,eaudelierreeaudetoilette,musk,bot
+1058,diptyque,eaudelierreeaudetoilette,geranium,bot
+1059,diptyque,eaudelierreeaudetoilette,woodsy notes,bot
+1060,diptyque,eaudelierreeaudetoilette,brazilian rosewood,bot
+1061,diptyque,eaudelierreeaudetoilette,ambergris,bot
+1062,diptyque,florabellioeaudetoilette,sea notes,top
+1063,diptyque,florabellioeaudetoilette,salt,top
+1064,diptyque,florabellioeaudetoilette,fennel,top
+1065,diptyque,florabellioeaudetoilette,apple blossom,mid
+1066,diptyque,florabellioeaudetoilette,osmanthus,mid
+1067,diptyque,florabellioeaudetoilette,coffee,bot
+1068,diptyque,florabellioeaudetoilette,sesame,bot
+1069,diptyque,l'eaueaudetoilette,cinnamon,top
+1070,diptyque,l'eaueaudetoilette,rose,top
+1071,diptyque,l'eaueaudetoilette,geranium,mid
+1072,diptyque,l'eaueaudetoilette,cloves,bot
+1073,diptyque,l'eaueaudetoilette,sandalwood,bot
+1074,diptyque,eauduelleeaudetoilette,vanilla,bot
+1075,diptyque,eauduelleeaudetoilette,resins,bot
+1076,diptyque,eauduelleeaudetoilette,cardamom,bot
+1077,diptyque,eauduelleeaudetoilette,juniper,bot
+1078,diptyque,eauduelleeaudetoilette,olibanum (frankincense),bot
+1079,diptyque,eauduelleeaudetoilette,pink pepper,bot
+1080,diptyque,eauduelleeaudetoilette,earl grey tea,bot
+1081,diptyque,eauduelleeaudetoilette,ambergris,bot
+1082,diptyque,eauduelleeaudetoilette,bergamot,bot
+1083,diptyque,eauduelleeaudetoilette,saffron,bot
+1084,diptyque,eauduelleeaudetoilette,musk,bot
+1085,diptyque,l'autreeaudetoilette,cardamom,top
+1086,diptyque,l'autreeaudetoilette,pepper,top
+1087,diptyque,l'autreeaudetoilette,carnation,top
+1088,diptyque,l'autreeaudetoilette,caraway,mid
+1089,diptyque,l'autreeaudetoilette,nutmeg,mid
+1090,diptyque,l'autreeaudetoilette,coriander,mid
+1091,diptyque,l'autreeaudetoilette,patchouli,bot
+1092,diptyque,eauroseeaudetoilette,litchi,top
+1093,diptyque,eauroseeaudetoilette,black currant,top
+1094,diptyque,eauroseeaudetoilette,bergamot,top
+1095,diptyque,eauroseeaudetoilette,rose,mid
+1096,diptyque,eauroseeaudetoilette,geranium,mid
+1097,diptyque,eauroseeaudetoilette,jasmine,mid
+1098,diptyque,eauroseeaudetoilette,musk,bot
+1099,diptyque,eauroseeaudetoilette,honey,bot
+1100,diptyque,eauroseeaudetoilette,cedar,bot
+1101,diptyque,ylang,floral notes,bot
+1102,diptyque,ylang,ginger,bot
+1103,diptyque,ylang,pink pepper,bot
+1104,diptyque,ylang,vetiver,bot
+1105,diptyque,ylang,benzoin,bot
+1106,diptyque,ylang,incense,bot
+1107,diptyque,ylang,patchouli,bot
+1108,diptyque,eaudessenseaudetoilette,orange blossom,top
+1109,diptyque,eaudessenseaudetoilette,bitter orange,top
+1110,diptyque,eaudessenseaudetoilette,juniper berries,mid
+1111,diptyque,eaudessenseaudetoilette,angelica,bot
+1112,diptyque,eaudessenseaudetoilette,patchouli,bot
+1113,diptyque,l'ombredansl'eaueaudetoilette,cassia,bot
+1114,diptyque,l'ombredansl'eaueaudetoilette,rose,bot
+1115,diptyque,l'ombredansl'eaueaudetoilette,black currant,bot
+1116,diptyque,l'ombredansl'eaueaudetoilette,black currant leaf,bot
+1117,diptyque,l'ombredansl'eaueaudetoilette,bergamot,bot
+1118,diptyque,l'ombredansl'eaueaudetoilette,ambergris,bot
+1119,diptyque,l'ombredansl'eaueaudetoilette,musk,bot
+1120,diptyque,l'ombredansl'eaueaudetoilette,mandarin orange,bot
+1121,diptyque,oleneeaudetoilette,narcissus,top
+1122,diptyque,oleneeaudetoilette,honeysuckle,top
+1123,diptyque,oleneeaudetoilette,jasmine,mid
+1124,diptyque,oleneeaudetoilette,wisteria,mid
+1125,diptyque,oleneeaudetoilette,white flowers,bot
+1126,diptyque,oleneeaudetoilette,green notes,bot
+1127,diptyque,dosoneaudetoilette,orange blossom,top
+1128,diptyque,dosoneaudetoilette,iris,top
+1129,diptyque,dosoneaudetoilette,rose,top
+1130,diptyque,dosoneaudetoilette,tuberose,mid
+1131,diptyque,dosoneaudetoilette,pink pepper,mid
+1132,diptyque,dosoneaudetoilette,benzoin,bot
+1133,diptyque,dosoneaudetoilette,musk,bot
+1134,diptyque,fleurdepeaueaudeparfum,aldehydes,top
+1135,diptyque,fleurdepeaueaudeparfum,pink pepper,top
+1136,diptyque,fleurdepeaueaudeparfum,angelica,top
+1137,diptyque,fleurdepeaueaudeparfum,bergamot,top
+1138,diptyque,fleurdepeaueaudeparfum,iris,mid
+1139,diptyque,fleurdepeaueaudeparfum,rose,mid
+1140,diptyque,fleurdepeaueaudeparfum,musk,bot
+1141,diptyque,fleurdepeaueaudeparfum,ambrette (musk mallow),bot
+1142,diptyque,fleurdepeaueaudeparfum,carrot,bot
+1143,diptyque,fleurdepeaueaudeparfum,ambergris,bot
+1144,diptyque,fleurdepeaueaudeparfum,leather,bot
+1145,diptyque,fleurdepeaueaudeparfum,sandalwood,bot
+1146,diptyque,fleurdepeaueaudeparfum,amberwood,bot
+1147,diptyque,eaudeminthéeaudeparfum,mint,top
+1148,diptyque,eaudeminthéeaudeparfum,nutmeg,top
+1149,diptyque,eaudeminthéeaudeparfum,geranium,mid
+1150,diptyque,eaudeminthéeaudeparfum,rose,mid
+1151,diptyque,eaudeminthéeaudeparfum,patchouli,bot
+1152,diptyque,eaucapitaleeaudeparfum,mint,top
+1153,diptyque,eaucapitaleeaudeparfum,nutmeg,top
+1154,diptyque,eaucapitaleeaudeparfum,geranium,mid
+1155,diptyque,eaucapitaleeaudeparfum,rose,mid
+1156,diptyque,eaucapitaleeaudeparfum,patchouli,bot
+1157,diptyque,tamdaoeaudeparfum,sandalwood,bot
+1158,diptyque,tamdaoeaudeparfum,cedar,bot
+1159,diptyque,tamdaoeaudeparfum,amberwood,bot
+1160,diptyque,tamdaoeaudeparfum,coriander,bot
+1161,diptyque,tamdaoeaudeparfum,vanilla,bot
+1162,diptyque,tamdaoeaudeparfum,musk,bot
+1163,diptyque,tamdaoeaudeparfum,lime,bot
+1164,diptyque,tamdaoeaudeparfum,ginger,bot
+1165,diptyque,dosoneaudeparfum,tuberose,bot
+1166,diptyque,dosoneaudeparfum,orange,bot
+1167,diptyque,dosoneaudeparfum,musk,bot
+1168,diptyque,dosoneaudeparfum,pink pepper,bot
+1169,diptyque,oudpalaoeaudeparfum,laotian oud,bot
+1170,diptyque,oudpalaoeaudeparfum,rose,bot
+1171,diptyque,oudpalaoeaudeparfum,tobacco,bot
+1172,diptyque,oudpalaoeaudeparfum,rum,bot
+1173,diptyque,oudpalaoeaudeparfum,labdanum,bot
+1174,diptyque,oudpalaoeaudeparfum,sandalwood,bot
+1175,diptyque,oudpalaoeaudeparfum,camphor,bot
+1176,diptyque,oudpalaoeaudeparfum,patchouli,bot
+1177,diptyque,oudpalaoeaudeparfum,vanilla,bot
+1178,diptyque,philosykoseaudeparfum,fig leaf,top
+1179,diptyque,philosykoseaudeparfum,fig,top
+1180,diptyque,philosykoseaudeparfum,fig tree,mid
+1181,diptyque,philosykoseaudeparfum,woody notes,bot
+1182,diptyque,philosykoseaudeparfum,pepper,bot
+1183,diptyque,vetyverioeaudeparfum,grapefruit,top
+1184,diptyque,vetyverioeaudeparfum,mandarin orange,top
+1185,diptyque,vetyverioeaudeparfum,rose,mid
+1186,diptyque,vetyverioeaudeparfum,vetiver,bot
+1187,diptyque,vetyverioeaudeparfum,vetiver,bot
+1188,diptyque,vetyverioeaudeparfum,patchouli,bot
+1189,diptyque,voluteseaudeparfum,tobacco,bot
+1190,diptyque,voluteseaudeparfum,iris,bot
+1191,diptyque,voluteseaudeparfum,honey,bot
+1192,diptyque,voluteseaudeparfum,indian spices,bot
+1193,diptyque,voluteseaudeparfum,styrax,bot
+1194,diptyque,eauduelleeaudeparfum,vanilla,bot
+1195,diptyque,eauduelleeaudeparfum,indian spices,bot
+1196,diptyque,eauduelleeaudeparfum,ambroxan,bot
+1197,diptyque,eauduelleeaudeparfum,rose,bot
+1198,diptyque,tempoeaudeparfum,patchouli,bot
+1199,diptyque,tempoeaudeparfum,mate,bot
+1200,diptyque,tempoeaudeparfum,clary sage,bot
+1201,diptyque,tempoeaudeparfum,pink pepper,bot
+1202,diptyque,tempoeaudeparfum,violet leaf,bot
+1203,diptyque,tempoeaudeparfum,bergamot,bot
+1204,creed,creedcitrusbigarade,lemon,top
+1205,creed,creedcitrusbigarade,petitgrain,top
+1206,creed,creedcitrusbigarade,pepper,mid
+1207,creed,creedcitrusbigarade,lemon,mid
+1208,creed,creedcitrusbigarade,mandarin orange,mid
+1209,creed,creedcitrusbigarade,petitgrain,mid
+1210,creed,creedcitrusbigarade,vetiver,bot
+1211,creed,creedcitrusbigarade,ginger,bot
+1212,creed,creedcitrusbigarade,mint,bot
+1213,creed,creedgreenneroli,mandarin orange,top
+1214,creed,creedgreenneroli,mint,top
+1215,creed,creedgreenneroli,petitgrain,top
+1216,creed,creedgreenneroli,orange,mid
+1217,creed,creedgreenneroli,orange,mid
+1218,creed,creedgreenneroli,tarragon,mid
+1219,creed,creedgreenneroli,neroli,mid
+1220,creed,creedgreenneroli,caraway,bot
+1221,creed,creedgreenneroli,rosemary,bot
+1222,creed,creedgreenneroli,lemon,bot
+1223,creed,creedgreenneroli,mint,bot
+1224,creed,creedzestemandarine,lemon,top
+1225,creed,creedzestemandarine,orange,top
+1226,creed,creedzestemandarine,petitgrain,top
+1227,creed,creedzestemandarine,lemon,mid
+1228,creed,creedzestemandarine,mandarin orange,mid
+1229,creed,creedzestemandarine,orange blossom,bot
+1230,creed,creedzestemandarine,patchouli,bot
+1231,creed,creedzestemandarine,petitgrain,bot
+1232,creed,creediristub횋reuse,galbanum,top
+1233,creed,creediristub횋reuse,violet leaf,top
+1234,creed,creediristub횋reuse,orange,top
+1235,creed,creediristub횋reuse,tuberose,mid
+1236,creed,creediristub횋reuse,ylang-ylang,mid
+1237,creed,creediristub횋reuse,lily of the valley leaves,mid
+1238,creed,creediristub횋reuse,orange blossom,bot
+1239,creed,creediristub횋reuse,musk,bot
+1240,creed,creediristub횋reuse,orchid,bot
+1241,creed,creedvetivergeranium,apple,top
+1242,creed,creedvetivergeranium,bergamot,top
+1243,creed,creedvetivergeranium,lemon,top
+1244,creed,creedvetivergeranium,geranium,mid
+1245,creed,creedvetivergeranium,cinnamon,mid
+1246,creed,creedvetivergeranium,rose,mid
+1247,creed,creedvetivergeranium,vetiver,bot
+1248,creed,creedvetivergeranium,patchouli,bot
+1249,creed,creedvetivergeranium,cedar,bot
+1250,creed,creedvetivergeranium,musk,bot
+1251,creed,creedvetivergeranium,amber,bot
+1252,creed,creedaventus,bergamot,top
+1253,creed,creedaventus,back currant leaf,top
+1254,creed,creedaventus,apple,top
+1255,creed,creedaventus,pineapple,top
+1256,creed,creedaventus,"arbutus (madrona, bearberry tree)",mid
+1257,creed,creedaventus,birch,mid
+1258,creed,creedaventus,patchouli,mid
+1259,creed,creedaventus,jasmine,mid
+1260,creed,creedaventus,musk,bot
+1261,creed,creedaventus,oakmoss,bot
+1262,creed,creedaventus,ambergris,bot
+1263,creed,creedaventus,vanilla,bot
+1264,creed,creedaventuscologne,ginger,top
+1265,creed,creedaventuscologne,mandarin orange,top
+1266,creed,creedaventuscologne,rose,top
+1267,creed,creedaventuscologne,patchouli,mid
+1268,creed,creedaventuscologne,sandalwood,mid
+1269,creed,creedaventuscologne,vetiver,mid
+1270,creed,creedaventuscologne,styrax,bot
+1271,creed,creedaventuscologne,birch,bot
+1272,creed,creedaventuscologne,musk,bot
+1273,creed,creedaventuscologne,tonka bean,bot
+1274,creed,creedgreenirishtweed,lemon,top
+1275,creed,creedgreenirishtweed,lemon verbena,top
+1276,creed,creedgreenirishtweed,mint,top
+1277,creed,creedgreenirishtweed,violet leaf,mid
+1278,creed,creedgreenirishtweed,iris,bot
+1279,creed,creedgreenirishtweed,sandalwood,bot
+1280,creed,creedgreenirishtweed,ambergris,bot
+1281,creed,creedsilvermountainwater,bergamot,top
+1282,creed,creedsilvermountainwater,mandarin orange,top
+1283,creed,creedsilvermountainwater,neroli,top
+1284,creed,creedsilvermountainwater,matcha tea,mid
+1285,creed,creedsilvermountainwater,black currant,mid
+1286,creed,creedsilvermountainwater,sandalwood,bot
+1287,creed,creedsilvermountainwater,musk,bot
+1288,creed,creedmill횋simeimp횋rial,bergamot,top
+1289,creed,creedmill횋simeimp횋rial,mandarin orange,top
+1290,creed,creedmill횋simeimp횋rial,lemon,top
+1291,creed,creedmill횋simeimp횋rial,iris,mid
+1292,creed,creedmill횋simeimp횋rial,sandalwood,bot
+1293,creed,creedmill횋simeimp횋rial,amber,bot
+1294,creed,creedmill횋simeimp횋rial,musk,bot
+1295,creed,creedaventusforher,apple,top
+1296,creed,creedaventusforher,"arbutus (madrona, bearberry tree)",top
+1297,creed,creedaventusforher,patchouli,top
+1298,creed,creedaventusforher,bergamot,top
+1299,creed,creedaventusforher,rose,mid
+1300,creed,creedaventusforher,sandalwood,mid
+1301,creed,creedaventusforher,styrax,mid
+1302,creed,creedaventusforher,musk,mid
+1303,creed,creedaventusforher,peach,bot
+1304,creed,creedaventusforher,cassia,bot
+1305,creed,creedaventusforher,lilac,bot
+1306,creed,creedaventusforher,amber,bot
+1307,creed,creedaventusforher,ylang-ylang,bot
+1308,creed,creedviking,bergamot,top
+1309,creed,creedviking,lemon,top
+1310,creed,creedviking,la r챕union baie rose (pink peppercorn),top
+1311,creed,creedviking,peppercorn,mid
+1312,creed,creedviking,rose,mid
+1313,creed,creedviking,mint,mid
+1314,creed,creedviking,sandalwood,bot
+1315,creed,creedviking,vetiver,bot
+1316,creed,creedviking,patchouli,bot
+1317,creed,creedviking,lavender,bot
+1318,creed,creedroyaloud,lemon,top
+1319,creed,creedroyaloud,"arbutus (madrona, bearberry tree)",top
+1320,creed,creedroyaloud,bergamot,top
+1321,creed,creedroyaloud,cedar,mid
+1322,creed,creedroyaloud,galbanum,mid
+1323,creed,creedroyaloud,angelica,mid
+1324,creed,creedroyaloud,sandalwood,bot
+1325,creed,creedroyaloud,arganwood (oud),bot
+1326,creed,creedroyaloud,musk,bot
+1327,creed,creedvirginislandwater,bergamot,top
+1328,creed,creedvirginislandwater,lime,top
+1329,creed,creedvirginislandwater,mandarin orange,top
+1330,creed,creedvirginislandwater,hibiscus,mid
+1331,creed,creedvirginislandwater,ylang-ylang,mid
+1332,creed,creedvirginislandwater,jasmine,mid
+1333,creed,creedvirginislandwater,musk,bot
+1334,creed,creedvirginislandwater,woody notes,bot
+1335,creed,creedoriginalv횋tiver,bergamot,top
+1336,creed,creedoriginalv횋tiver,bitter orange,top
+1337,creed,creedoriginalv횋tiver,mandarin orange,top
+1338,creed,creedoriginalv횋tiver,vetiver,top
+1339,creed,creedoriginalv횋tiver,pepper,mid
+1340,creed,creedoriginalv횋tiver,coriander,mid
+1341,creed,creedoriginalv횋tiver,"arbutus (madrona, bearberry tree)",mid
+1342,creed,creedoriginalv횋tiver,sandalwood,bot
+1343,creed,creedoriginalv횋tiver,vetiver,bot
+1344,creed,creedoriginalv횋tiver,ambergris,bot
+1345,creed,creedoriginalv횋tiver,musk,bot
+1346,creed,creedoriginalsantal,lemon tree,top
+1347,creed,creedoriginalsantal,ginger,top
+1348,creed,creedoriginalsantal,lemon,top
+1349,creed,creedoriginalsantal,lavender,mid
+1350,creed,creedoriginalsantal,mint,mid
+1351,creed,creedoriginalsantal,rosemary,mid
+1352,creed,creedoriginalsantal,"arbutus (madrona, bearberry tree)",mid
+1353,creed,creedoriginalsantal,sandalwood,bot
+1354,creed,creedoriginalsantal,cedar,bot
+1355,creed,creedoriginalsantal,vanilla,bot
+1356,creed,creedoriginalsantal,benzoin,bot
+1357,creed,creedoriginalsantal,ambergris,bot
+1358,creed,creedoriginalsantal,musk,bot
+1359,creed,creedhimalaya,bergamot,top
+1360,creed,creedhimalaya,grapefruit,top
+1361,creed,creedhimalaya,lemon,top
+1362,creed,creedhimalaya,mandarin orange,top
+1363,creed,creedhimalaya,"arbutus (madrona, bearberry tree)",mid
+1364,creed,creedhimalaya,nutmeg,mid
+1365,creed,creedhimalaya,cedar,mid
+1366,creed,creedhimalaya,sandalwood,mid
+1367,creed,creedhimalaya,vetiver,mid
+1368,creed,creedhimalaya,pepper,mid
+1369,creed,creedhimalaya,ambergris,bot
+1370,creed,creedhimalaya,musk,bot
+1371,creed,creedhimalaya,tonka bean,bot
+1372,creed,creedroyalmayfair,gin,top
+1373,creed,creedroyalmayfair,lime,top
+1374,creed,creedroyalmayfair,pine tree,top
+1375,creed,creedroyalmayfair,rose,mid
+1376,creed,creedroyalmayfair,orange,bot
+1377,creed,creedroyalmayfair,cedar,bot
+1378,creed,creedroyalmayfair,eucalyptus,bot
+1379,creed,creedboisduportugal,bergamot,top
+1380,creed,creedboisduportugal,lavender,top
+1381,creed,creedboisduportugal,cedar,mid
+1382,creed,creedboisduportugal,sandalwood,bot
+1383,creed,creedboisduportugal,vetiver,bot
+1384,creed,creedboisduportugal,ambergris,bot
+1385,creed,creedtabaromemill횋sime,bergamot,top
+1386,creed,creedtabaromemill횋sime,lemon,top
+1387,creed,creedtabaromemill횋sime,mandarin orange,top
+1388,creed,creedtabaromemill횋sime,ginger,top
+1389,creed,creedtabaromemill횋sime,jasmine,mid
+1390,creed,creedtabaromemill횋sime,sandalwood,mid
+1391,creed,creedtabaromemill횋sime,vetiver,mid
+1392,creed,creedtabaromemill횋sime,musk,bot
+1393,creed,creedtabaromemill횋sime,tobacco,bot
+1394,creed,creedtabaromemill횋sime,tea,bot
+1395,creed,creederolfa,bergamot,top
+1396,creed,creederolfa,lemon,top
+1397,creed,creederolfa,orange,top
+1398,creed,creederolfa,violet,top
+1399,creed,creederolfa,cumin,top
+1400,creed,creederolfa,basil,top
+1401,creed,creederolfa,rosemary,top
+1402,creed,creederolfa,melon,top
+1403,creed,creederolfa,cyclamen,mid
+1404,creed,creederolfa,jasmine,mid
+1405,creed,creederolfa,ginger,mid
+1406,creed,creederolfa,coriander,mid
+1407,creed,creederolfa,pepper,mid
+1408,creed,creederolfa,cedar,bot
+1409,creed,creederolfa,sandalwood,bot
+1410,creed,creederolfa,oakmoss,bot
+1411,creed,creederolfa,amber,bot
+1412,creed,creederolfa,musk,bot
+1413,creed,creedroyalwater,bergamot,top
+1414,creed,creedroyalwater,lemon,top
+1415,creed,creedroyalwater,mandarin orange,top
+1416,creed,creedroyalwater,lemon verbena,top
+1417,creed,creedroyalwater,clementine,top
+1418,creed,creedroyalwater,cumin,mid
+1419,creed,creedroyalwater,basil,mid
+1420,creed,creedroyalwater,pepper,mid
+1421,creed,creedroyalwater,"arbutus (madrona, bearberry tree)",mid
+1422,creed,creedroyalwater,ambergris,bot
+1423,creed,creedroyalwater,musk,bot
+1424,creed,creedn횋rolisauvage,bergamot,top
+1425,creed,creedn횋rolisauvage,bitter orange,top
+1426,creed,creedn횋rolisauvage,grapefruit,top
+1427,creed,creedn횋rolisauvage,lemon,top
+1428,creed,creedn횋rolisauvage,neroli,top
+1429,creed,creedn횋rolisauvage,lemon verbena,top
+1430,creed,creedn횋rolisauvage,orange blossom,mid
+1431,creed,creedn횋rolisauvage,ambergris,bot
+1432,creed,creedloveinwhite,orange,top
+1433,creed,creedloveinwhite,iris,mid
+1434,creed,creedloveinwhite,narcissus,mid
+1435,creed,creedloveinwhite,magnolia,mid
+1436,creed,creedloveinwhite,rose,mid
+1437,creed,creedloveinwhite,rice,mid
+1438,creed,creedloveinwhite,vanilla,bot
+1439,creed,creedloveinwhite,ambergris,bot
+1440,creed,creedloveinwhite,sandalwood,bot
+1441,creed,creedroyalprincessoud,bergamot,top
+1442,creed,creedroyalprincessoud,rose,top
+1443,creed,creedroyalprincessoud,violet,top
+1444,creed,creedroyalprincessoud,jasmine,mid
+1445,creed,creedroyalprincessoud,vanilla,mid
+1446,creed,creedroyalprincessoud,patchouli,mid
+1447,creed,creedroyalprincessoud,iris,mid
+1448,creed,creedroyalprincessoud,siam,bot
+1449,creed,creedroyalprincessoud,sandalwood,bot
+1450,creed,creedroyalprincessoud,styrax,bot
+1451,creed,creedspringflower,bergamot,top
+1452,creed,creedspringflower,apple,top
+1453,creed,creedspringflower,apricot,top
+1454,creed,creedspringflower,melon,top
+1455,creed,creedspringflower,peach,top
+1456,creed,creedspringflower,jasmine,mid
+1457,creed,creedspringflower,rose,mid
+1458,creed,creedspringflower,musk,bot
+1459,creed,creedacquafiorentina,greengage,top
+1460,creed,creedacquafiorentina,plum,top
+1461,creed,creedacquafiorentina,apple,top
+1462,creed,creedacquafiorentina,rose,mid
+1463,creed,creedacquafiorentina,carnation,mid
+1464,creed,creedacquafiorentina,bergamot,mid
+1465,creed,creedacquafiorentina,lemon,mid
+1466,creed,creedacquafiorentina,cedar,bot
+1467,creed,creedacquafiorentina,sandalwood,bot
+1468,creed,creedacquafiorentina,grapefruit,bot
+1469,creed,creedfloralie,rose,top
+1470,creed,creedfloralie,tuberose,top
+1471,creed,creedfloralie,lilac,top
+1472,creed,creedfloralie,marigold,top
+1473,creed,creedfloralie,amber,mid
+1474,creed,creedfloralie,lily of the valley leaves,mid
+1475,creed,creedfloralie,cedar,mid
+1476,creed,creedfloralie,cedar,bot
+1477,creed,creedfloralie,amber,bot
+1478,creed,creedfloralie,musk,bot
+1479,creed,creedfloralie,rose,bot
+1480,creed,creedloveinwhiteforsummer,rose,top
+1481,creed,creedloveinwhiteforsummer,bergamot,top
+1482,creed,creedloveinwhiteforsummer,magnolia,top
+1483,creed,creedloveinwhiteforsummer,iris,mid
+1484,creed,creedloveinwhiteforsummer,rice,mid
+1485,creed,creedloveinwhiteforsummer,cedar,mid
+1486,creed,creedloveinwhiteforsummer,ambergris,bot
+1487,creed,creedloveinwhiteforsummer,sandalwood,bot
+1488,creed,creedloveinwhiteforsummer,apple,bot
+1489,creed,creedloveinwhiteforsummer,jasmine,bot
+1490,creed,creedfleurissimo,bergamot,top
+1491,creed,creedfleurissimo,violet leaf,top
+1492,creed,creedfleurissimo,rose,mid
+1493,creed,creedfleurissimo,tuberose,mid
+1494,creed,creedfleurissimo,ylang-ylang,mid
+1495,creed,creedfleurissimo,iris,bot
+1496,creed,creedfleurissimo,ambergris,bot
+1497,creed,creedloveinblack,violet,top
+1498,creed,creedloveinblack,cedar,top
+1499,creed,creedloveinblack,iris,mid
+1500,creed,creedloveinblack,cloves,mid
+1501,creed,creedloveinblack,musk,mid
+1502,creed,creedloveinblack,violet,bot
+1503,creed,creedloveinblack,black currant,bot
+1504,creed,creedloveinblack,rose,bot
+1505,creed,creedfleursdegardenia,"arbutus (madrona, bearberry tree)",top
+1506,creed,creedfleursdegardenia,black currant,top
+1507,creed,creedfleursdegardenia,galbanum,top
+1508,creed,creedfleursdegardenia,rose,mid
+1509,creed,creedfleursdegardenia,lily of the valley leaves,mid
+1510,creed,creedfleursdegardenia,jasmine,mid
+1511,creed,creedfleursdegardenia,peony,mid
+1512,creed,creedfleursdegardenia,gardenia,mid
+1513,creed,creedfleursdegardenia,cedar,bot
+1514,creed,creedfleursdegardenia,musk,bot
+1515,creed,creedfleursdegardenia,patchouli,bot
+1516,creed,creedjasminimp횋ratriceeug횋nie,bergamot,top
+1517,creed,creedjasminimp횋ratriceeug횋nie,tangerine,mid
+1518,creed,creedjasminimp횋ratriceeug횋nie,orange,mid
+1519,creed,creedjasminimp횋ratriceeug횋nie,sandalwood,bot
+1520,creed,creedjasminimp횋ratriceeug횋nie,ambergris,bot
+1521,creed,creedjasminimp횋ratriceeug횋nie,vanilla,bot
+1522,creed,creedjasminimp횋ratriceeug횋nie,neroli,bot
+1523,creed,creedtub횋reuseindiana,bergamot,top
+1524,creed,creedtub횋reuseindiana,tuberose,mid
+1525,creed,creedtub횋reuseindiana,vanilla,bot
+1526,creed,creedtub횋reuseindiana,ambergris,bot
+1527,creed,creedfantasiadefleurs,bergamot,top
+1528,creed,creedfantasiadefleurs,rose,mid
+1529,creed,creedfantasiadefleurs,iris,bot
+1530,creed,creedfantasiadefleurs,ambergris,bot
+1531,creed,creedangeliqueencens,coriander,top
+1532,creed,creedangeliqueencens,violet,top
+1533,creed,creedangeliqueencens,rose,top
+1534,creed,creedangeliqueencens,patchouli,mid
+1535,creed,creedangeliqueencens,sandalwood,mid
+1536,creed,creedangeliqueencens,cinnamon,mid
+1537,creed,creedangeliqueencens,pepper,mid
+1538,creed,creedangeliqueencens,musk,bot
+1539,creed,creedangeliqueencens,vetiver,bot
+1540,creed,creedangeliqueencens,incense,bot
+1541,creed,creedspice&wood,apple,top
+1542,creed,creedspice&wood,bergamot,top
+1543,creed,creedspice&wood,lemon,top
+1544,creed,creedspice&wood,angelica,mid
+1545,creed,creedspice&wood,"arbutus (madrona, bearberry tree)",mid
+1546,creed,creedspice&wood,vetiver,mid
+1547,creed,creedspice&wood,patchouli,mid
+1548,creed,creedspice&wood,cloves,mid
+1549,creed,creedspice&wood,pimento,mid
+1550,creed,creedspice&wood,birch,mid
+1551,creed,creedspice&wood,iris,bot
+1552,creed,creedspice&wood,cedar,bot
+1553,creed,creedspice&wood,oakmoss,bot
+1554,creed,creedspice&wood,musk,bot
+1555,creed,creedpurewhitecologne,lemon,top
+1556,creed,creedpurewhitecologne,bergamot,top
+1557,creed,creedpurewhitecologne,grapefruit,top
+1558,creed,creedpurewhitecologne,galbanum,mid
+1559,creed,creedpurewhitecologne,pear,mid
+1560,creed,creedpurewhitecologne,petitgrain,mid
+1561,creed,creedpurewhitecologne,ambergris,bot
+1562,creed,creedpurewhitecologne,musk,bot
+1563,creed,creedpurewhitecologne,rice powdercreed jardin d'amalfi,bot
+1564,creed,creedjardind'amalfi,mandarin orange,top
+1565,creed,creedjardind'amalfi,bergamot,top
+1566,creed,creedjardind'amalfi,pink pepper,top
+1567,creed,creedjardind'amalfi,petitgrain,top
+1568,creed,creedjardind'amalfi,cedar,mid
+1569,creed,creedjardind'amalfi,apple,mid
+1570,creed,creedjardind'amalfi,rose,mid
+1571,creed,creedjardind'amalfi,vetiver,bot
+1572,creed,creedjardind'amalfi,musk,bot
+1573,creed,creedjardind'amalfi,cinnamon,bot
+1574,creed,creedsublimevanille,vanilla,top
+1575,creed,creedsublimevanille,tonka bean,top
+1576,creed,creedsublimevanille,bergamot,mid
+1577,creed,creedsublimevanille,lemon,mid
+1578,creed,creedsublimevanille,musk,bot
+1579,creed,creedwhiteflowers,violet leaf,top
+1580,creed,creedwhiteflowers,apple,top
+1581,creed,creedwhiteflowers,lemon,top
+1582,creed,creedwhiteflowers,jasmine,mid
+1583,creed,creedwhiteflowers,geranium,mid
+1584,creed,creedwhiteflowers,rose,mid
+1585,creed,creedwhiteflowers,musk,bot
+1586,creed,creedwhiteflowers,sandalwood,bot
+1587,creed,creedwhiteflowers,narcissus,bot
+1588,creed,creedwhiteamber,amber,top
+1589,creed,creedwhiteamber,vanilla,top
+1590,creed,creedwhiteamber,fruity notes,top
+1591,creed,creedwhiteamber,floral notes,mid
+1592,creed,creedwhiteamber,sandalwood,mid
+1593,creed,creedwhiteamber,benzoin,mid
+1594,creed,creedwhiteamber,floral notes,bot
+1595,creed,creedwhiteamber,jasmine,bot
+1596,creed,creedwhiteamber,sandalwood,bot
+1597,creed,creedwhiteamber,benzoin,bot
