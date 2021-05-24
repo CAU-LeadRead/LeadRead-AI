@@ -4,6 +4,7 @@ from scipy.sparse.linalg import svds
 import pandas as pd
 import numpy as np
 import sys
+import json
 
 
 def get_perfume_data():
@@ -91,14 +92,57 @@ def recommend_perfumes(user_id, num_recommendations=5):
     return recommendations
 
 
-def main():
-    # args = sys.argv[1]
-    recomend = recommend_perfumes("1")
+def MF_perfumes(user_id, df_preds, user_row_df, num_recommendations=5):
+    user_perfume_data, nich = get_perfume_data()
+    user_row_number = user_row_df.loc[user_id, "0"]
+    sorted_user_predictions = df_preds.iloc[user_row_number].sort_values(
+        ascending=False
+    )
+    sorted_user_predictions.index.name = "title"
+    user_history = user_perfume_data[user_perfume_data.userId == user_id].sort_values(
+        ["rating"], ascending=False
+    )
+    user_perfume_data = user_perfume_data.loc[nich["category"].isin([1])]
+    recommendations = user_perfume_data[
+        ~user_perfume_data["title"].isin(user_history["title"])
+    ]
+    recommendations = recommendations.merge(
+        pd.DataFrame(sorted_user_predictions).reset_index(), on="title"
+    )
+    recommendations = recommendations.rename(
+        columns={user_row_number: "Predictions"}
+    ).sort_values("Predictions", ascending=False)
+    recommendations.reset_index(inplace=True)
+    recommendations.drop(["userId", "rating", "index"], axis=1, inplace=True)
+    recommendations.drop_duplicates(inplace=True)
+    recommendations = recommendations.iloc[:num_recommendations, :]
+    recommendations.drop("Predictions", axis=1, inplace=True)
+    return recommendations
 
-    for frag in recomend.iterrows():
-        title = frag.title
-        brand = title.split()[1]
-        name = title.split()[0]
+
+def main():
+    try:
+        user = sys.argv[1]
+    except:
+        user = "1"
+
+    result = []
+
+    user_row_df = pd.read_csv("DataFrames/user_row_df.csv", index_col=0)
+    user_list = list(user_row_df.index.values)
+    if user in user_list:
+        df_preds = pd.read_csv("DataFrames/df_preds.csv", index_col=0)
+        print(df_preds.head())
+        recommend = MF_perfumes(user, df_preds, user_row_df)
+    else:
+        recommend = recommend_perfumes(user)
+    for frag in recommend.iterrows():
+        title = frag[1].title
+        brand = title.split("/")[1]
+        name = title.split("/")[0]
+        result.append({"brand": brand, "name": name})
+    result = json.dumps({"detected": result})
+    print(result)
 
 
 if __name__ == "__main__":
