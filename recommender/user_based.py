@@ -1,21 +1,9 @@
 import mysql_reviews
+from sklearn.decomposition import TruncatedSVD
 from scipy.sparse.linalg import svds
 import pandas as pd
 import numpy as np
-import warnings
-import argparse
-
-parser = argparse.ArgumentParser(description='Return recommendations from the DB. Return temporary recommendations if it is not yet calculated.')
-parser.add_argument('--id', metavar='1', type=str, nargs='+',
-                    help='an integer for the accumulator')
-parser.add_argument('--sum', dest='accumulate', action='store_const',
-                    const=sum, default=max,
-                    help='sum the integers (default: find the max)')
-
-args = parser.parse_args()
-
-
-warnings.filterwarnings("ignore")
+import sys
 
 
 def get_perfume_data():
@@ -102,18 +90,16 @@ def recommend_perfumes(user_id, num_recommendations=5):
     recommendations = recommendations.iloc[:num_recommendations, :]
     return recommendations
 
-def main():
-    args = sys.argv[]
 
+def main():
+    # args = sys.argv[1]
+    recomend = recommend_perfumes("1")
+
+    for frag in recomend.iterrows():
+        title = frag.title
+        brand = title.split()[1]
+        name = title.split()[0]
 
 
 if __name__ == "__main__":
-
-    parser = argparse.ArgumentParser(description='Return recommendations from the DB. Return temporary recommendations if it is not yet calculated.')
-    parser.add_argument('--id', metavar='1', type=str, nargs='+',
-                        help='an integer for the accumulator')
-    parser.add_argument('--sum', dest='accumulate', action='store_const',
-                        const=sum, default=max,
-                        help='sum the integers (default: find the max)')
-
-    args = parser.parse_args()
+    main()
