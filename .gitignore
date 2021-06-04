@@ -255,3 +255,4 @@ crashlytics-build.properties
 fabric.properties
 
 label_recog_old
+!label_recog
