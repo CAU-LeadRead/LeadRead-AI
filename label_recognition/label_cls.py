@@ -13,7 +13,7 @@ import detect
 
 
 LIMIT_PX = 2000
-GOOGLE_VISION_CRED = "jiho-cred.json"
+GOOGLE_VISION_CRED = ""
 
 db = pymysql.connect(
     user="admin",
