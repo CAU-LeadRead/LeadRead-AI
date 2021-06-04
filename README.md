@@ -74,8 +74,6 @@ python  ~/Catchinihi-AI/recommender/user_based.py <brand> <product>
 
 GOOGLE_VISION_CRED에 Google Vision 의 Credential 주소 지정
 
-![AI%207aacf5207bbb4114ac41d72a55d423f9/Untitled.png](AI%207aacf5207bbb4114ac41d72a55d423f9/Untitled.png)
-
 ### 사진 검색 실행
 
 ```bash
