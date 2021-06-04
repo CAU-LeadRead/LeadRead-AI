@@ -1,6 +1,5 @@
 import argparse
 from argparse import Namespace
-import detect
 import pandas as pd
 import os
 import pymysql
@@ -8,7 +7,13 @@ import json
 import sys
 import cv2
 
+sys.path.append("../yolov5/")
+
+import detect
+
+
 LIMIT_PX = 2000
+GOOGLE_VISION_CRED = "jiho-cred.json"
 
 db = pymysql.connect(
     user="admin",
@@ -49,7 +54,7 @@ def detect_text(path):
     import io
 
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.join(
-        abs_path, "jiho-cred.json"
+        abs_path, GOOGLE_VISION_CRED
     )
     result = ""
     client = vision.ImageAnnotatorClient()
@@ -88,7 +93,6 @@ def classifier(text, img_dir):
     ]
 
     result = []
-    # print(text)
 
     for nichi in nichis:
         if nichi in text:
@@ -96,8 +100,6 @@ def classifier(text, img_dir):
                 nichi = "maisonmargiela"
             elif nichi == "acquaparma":
                 nichi = "acquadiparma"
-            # print(nichi)
-            # print(result)
             df = search_brand(nichi)
             name_list = df["en_name"].values
             if nichi == "s.marianovella":
@@ -125,7 +127,7 @@ def classifier(text, img_dir):
                     source=img_dir,
                     update=False,
                     view_img=False,
-                    weights=os.path.join(abs_path, "weights/best.pt"),
+                    weights=os.path.join(abs_path, "best.pt"),
                 )
                 result += detect.detect(opt)
             else:
@@ -143,13 +145,7 @@ def main(img_dir=None):
     if img_dir == None:
         img_dir = sys.argv[1]
     img = cv2.imread(img_dir)
-    # height, width, _ = img.shape
-    # if LIMIT_PX < height or LIMIT_PX < width:
-    #     ratio = float(LIMIT_PX) / max(height, width)
-    #     img = cv2.resize(img, (0, 0), fx=ratio, fy=ratio)
-    #     cv2.imwrite(img_dir, img)
     text = detect_text(img_dir).lower().split()
-    # print(text)
     text = "".join(text)
 
     return json.dumps({"detected": classifier(text, img_dir)})
