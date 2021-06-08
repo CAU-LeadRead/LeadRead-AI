@@ -1,4 +1,4 @@
-import untitled0
+import label_cls
 import cv2
 import os
 
@@ -8,7 +8,7 @@ def test_u0():
     img = os.listdir(base_dir)
     for i in img:
         img_dir = os.path.join(base_dir, i)
-        name = untitled0.main(img_dir)
+        name = label_cls.main(img_dir)
         print(i, name)
         image = cv2.imread(img_dir)
         image = cv2.resize(image, dsize=(0, 0), fx=0.3, fy=0.3)

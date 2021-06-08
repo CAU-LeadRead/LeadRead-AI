@@ -12,8 +12,7 @@ sys.path.append("../yolov5/")
 import detect
 
 
-LIMIT_PX = 2000
-GOOGLE_VISION_CRED = ""
+GOOGLE_VISION_CRED = "vision_cred.json"
 
 db = pymysql.connect(
     user="admin",
@@ -131,7 +130,6 @@ def classifier(text, img_dir):
                 )
                 result += detect.detect(opt)
             else:
-                # print(name_list)
                 for name in name_list:
                     if name in text:
                         result.append({"brand": nichi, "name": name})

@@ -255,4 +255,8 @@ crashlytics-build.properties
 fabric.properties
 
 label_recog_old
-!label_recog
+DB_related
+etc
+fragrance_Data
+imgs
+*.ipynb
