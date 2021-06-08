@@ -5,6 +5,7 @@ import os
 
 abs_path = os.path.dirname(os.path.realpath(__file__))
 
+
 class MF:
     def __init__(self, R, K, alpha, beta, iterations):
         """
@@ -193,7 +194,9 @@ def recommend_perfumes(
 
 def main():
     df_preds, user_row_dict, df_user_perfume_rating = predict(k=14, iter=500)
-    df_preds.to_csv(os.path.join(abs_path,"DataFrames/df_preds.csv"), index_label="title")
+    df_preds.to_csv(
+        os.path.join(abs_path, "DataFrames/df_preds.csv"), index_label="title"
+    )
     user_row_df = pd.DataFrame.from_dict(user_row_dict, orient="index")
     user_row_df.to_csv(os.path.join(abs_path, "DataFrames/user_row_df.csv"))
 

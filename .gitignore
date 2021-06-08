@@ -261,5 +261,3 @@ fragrance_Data
 imgs
 *.ipynb
 !DataFrames
-!df_preds.csv
-!user_row_df.csv
