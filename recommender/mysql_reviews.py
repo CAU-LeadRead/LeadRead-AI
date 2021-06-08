@@ -5,11 +5,11 @@ import requests
 import time
 
 db = pymysql.connect(
-    user="admin",
-    host="db-catchinichi.coagfxdx9ff4.ap-northeast-2.rds.amazonaws.com",
+    user="username",
+    host="host url",
     port=3306,
-    password="Password!23",
-    database="catchiNichi",
+    password="password",
+    database="database",
     charset="utf8",
 )
 cursor = db.cursor(pymysql.cursors.DictCursor)
@@ -17,11 +17,11 @@ cursor = db.cursor(pymysql.cursors.DictCursor)
 
 def get_cursor():
     db = pymysql.connect(
-        user="admin",
-        host="db-catchinichi.coagfxdx9ff4.ap-northeast-2.rds.amazonaws.com",
+        user="username",
+        host="host url",
         port=3306,
-        password="Password!23",
-        database="catchiNichi",
+        password="password",
+        database="database",
         charset="utf8",
     )
     cursor = db.cursor(pymysql.cursors.DictCursor)
